@@ -1,0 +1,17 @@
+# Base16 Da One White (powerline)
+# Author: NNB (https://github.com/NNBnh)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#c8c8c8"
+idle_fg = "#181818"
+info_bg = "#5890f8"
+info_fg = "#ffffff"
+good_bg = "#76a85d"
+good_fg = "#ffffff"
+warning_bg = "#b3684f"
+warning_fg = "#ffffff"
+critical_bg = "#de5d6e"
+critical_fg = "#ffffff"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

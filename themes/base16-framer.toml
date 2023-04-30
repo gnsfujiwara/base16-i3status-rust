@@ -1,0 +1,9 @@
+# Base16 Framer
+# Author: Framer (Maintained by Jesse Hoyos)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#b9b9b9"
+info_fg = "#b9b9b9"
+good_fg = "#32ccdc"
+warning_fg = "#fecb6e"
+critical_fg = "#fd886b"

@@ -1,0 +1,17 @@
+# Base16 Atelier Seaside Light (powerline)
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#cfe8cf"
+idle_fg = "#5e6e5e"
+info_bg = "#3d62f5"
+info_fg = "#f4fbf4"
+good_bg = "#29a329"
+good_fg = "#f4fbf4"
+warning_bg = "#98981b"
+warning_fg = "#f4fbf4"
+critical_bg = "#e6193c"
+critical_fg = "#f4fbf4"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

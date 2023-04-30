@@ -1,0 +1,17 @@
+# Base16 Spacemacs (powerline)
+# Author: Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#282828"
+idle_fg = "#a3a3a3"
+info_bg = "#4f97d7"
+info_fg = "#1f2022"
+good_bg = "#67b11d"
+good_fg = "#1f2022"
+warning_bg = "#b1951d"
+warning_fg = "#1f2022"
+critical_bg = "#f2241f"
+critical_fg = "#1f2022"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

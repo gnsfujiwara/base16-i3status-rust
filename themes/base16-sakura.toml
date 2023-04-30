@@ -1,0 +1,9 @@
+# Base16 Sakura
+# Author: Misterio77 (http://github.com/Misterio77)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#665055"
+info_fg = "#665055"
+good_fg = "#2e916d"
+warning_fg = "#c29461"
+critical_fg = "#df2d52"

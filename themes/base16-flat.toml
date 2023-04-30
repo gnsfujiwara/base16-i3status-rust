@@ -1,0 +1,9 @@
+# Base16 Flat
+# Author: Chris Kempson (http://chriskempson.com)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#bdc3c7"
+info_fg = "#bdc3c7"
+good_fg = "#2ecc71"
+warning_fg = "#f1c40f"
+critical_fg = "#e74c3c"

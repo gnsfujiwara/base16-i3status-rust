@@ -1,0 +1,9 @@
+# Base16 Chalk
+# Author: Chris Kempson (http://chriskempson.com)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#b0b0b0"
+info_fg = "#b0b0b0"
+good_fg = "#acc267"
+warning_fg = "#ddb26f"
+critical_fg = "#fb9fb1"

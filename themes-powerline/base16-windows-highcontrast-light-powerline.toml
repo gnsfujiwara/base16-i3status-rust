@@ -1,0 +1,17 @@
+# Base16 Windows High Contrast Light (powerline)
+# Author: Fergus Collins (https://github.com/C-Fergus)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#e8e8e8"
+idle_fg = "#545454"
+info_bg = "#000080"
+info_fg = "#fcfcfc"
+good_bg = "#008000"
+good_fg = "#fcfcfc"
+warning_bg = "#808000"
+warning_fg = "#fcfcfc"
+critical_bg = "#800000"
+critical_fg = "#fcfcfc"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

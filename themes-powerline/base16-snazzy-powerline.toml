@@ -1,0 +1,17 @@
+# Base16 Snazzy (powerline)
+# Author: Chawye Hsu (https://github.com/chawyehsu) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#34353e"
+idle_fg = "#e2e4e5"
+info_bg = "#57c7ff"
+info_fg = "#282a36"
+good_bg = "#5af78e"
+good_fg = "#282a36"
+warning_bg = "#f3f99d"
+warning_fg = "#282a36"
+critical_bg = "#ff5c57"
+critical_fg = "#282a36"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

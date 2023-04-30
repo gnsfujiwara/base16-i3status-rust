@@ -1,0 +1,9 @@
+# Base16 Black Metal (Marduk)
+# Author: metalelf0 (https://github.com/metalelf0)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#999999"
+info_fg = "#999999"
+good_fg = "#a5aaa7"
+warning_fg = "#626b67"
+critical_fg = "#5f8787"

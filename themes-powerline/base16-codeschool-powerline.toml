@@ -1,0 +1,17 @@
+# Base16 Codeschool (powerline)
+# Author: blockloop
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#1c3657"
+idle_fg = "#9ea7a6"
+info_bg = "#484d79"
+info_fg = "#232c31"
+good_bg = "#237986"
+good_fg = "#232c31"
+warning_bg = "#a03b1e"
+warning_fg = "#232c31"
+critical_bg = "#2a5491"
+critical_fg = "#232c31"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

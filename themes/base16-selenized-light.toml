@@ -1,0 +1,9 @@
+# Base16 selenized-light
+# Author: Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#909995"
+info_fg = "#909995"
+good_fg = "#428b00"
+warning_fg = "#a78300"
+critical_fg = "#cc1729"

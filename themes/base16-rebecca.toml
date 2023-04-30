@@ -1,0 +1,9 @@
+# Base16 Rebecca
+# Author: Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#a0a0c5"
+info_fg = "#a0a0c5"
+good_fg = "#6dfedf"
+warning_fg = "#ae81ff"
+critical_fg = "#a0a0c5"

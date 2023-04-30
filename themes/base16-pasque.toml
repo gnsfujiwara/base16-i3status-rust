@@ -1,0 +1,9 @@
+# Base16 Pasque
+# Author: Gabriel Fontes (https://github.com/Misterio77)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#bebcbf"
+info_fg = "#bebcbf"
+good_fg = "#c6914b"
+warning_fg = "#804ead"
+critical_fg = "#a92258"

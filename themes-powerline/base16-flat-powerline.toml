@@ -1,0 +1,17 @@
+# Base16 Flat (powerline)
+# Author: Chris Kempson (http://chriskempson.com)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#34495e"
+idle_fg = "#e0e0e0"
+info_bg = "#3498db"
+info_fg = "#2c3e50"
+good_bg = "#2ecc71"
+good_fg = "#2c3e50"
+warning_bg = "#f1c40f"
+warning_fg = "#2c3e50"
+critical_bg = "#e74c3c"
+critical_fg = "#2c3e50"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

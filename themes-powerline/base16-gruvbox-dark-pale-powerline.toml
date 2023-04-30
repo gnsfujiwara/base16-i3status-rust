@@ -1,0 +1,17 @@
+# Base16 Gruvbox dark, pale (powerline)
+# Author: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#3a3a3a"
+idle_fg = "#dab997"
+info_bg = "#83adad"
+info_fg = "#262626"
+good_bg = "#afaf00"
+good_fg = "#262626"
+warning_bg = "#ffaf00"
+warning_fg = "#262626"
+critical_bg = "#d75f5f"
+critical_fg = "#262626"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

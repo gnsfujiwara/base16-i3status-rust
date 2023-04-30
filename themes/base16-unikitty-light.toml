@@ -1,0 +1,9 @@
+# Base16 Unikitty Light
+# Author: Josh W Lewis (@joshwlewis)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#89878b"
+info_fg = "#89878b"
+good_fg = "#17ad98"
+warning_fg = "#dc8a0e"
+critical_fg = "#d8137f"

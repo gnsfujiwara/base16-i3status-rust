@@ -1,0 +1,9 @@
+# Base16 Heetch Dark
+# Author: Geoffrey Teale (tealeg@gmail.com)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#9c92a8"
+info_fg = "#9c92a8"
+good_fg = "#c33678"
+warning_fg = "#8f6c97"
+critical_fg = "#27d9d5"

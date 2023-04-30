@@ -1,0 +1,9 @@
+# Base16 Spacemacs
+# Author: Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#b8b8b8"
+info_fg = "#b8b8b8"
+good_fg = "#67b11d"
+warning_fg = "#b1951d"
+critical_fg = "#f2241f"

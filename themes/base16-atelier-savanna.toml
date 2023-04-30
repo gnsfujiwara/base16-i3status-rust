@@ -1,0 +1,9 @@
+# Base16 Atelier Savanna
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#78877d"
+info_fg = "#78877d"
+good_fg = "#489963"
+warning_fg = "#a07e3b"
+critical_fg = "#b16139"

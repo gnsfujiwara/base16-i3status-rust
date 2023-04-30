@@ -1,0 +1,17 @@
+# Base16 Dark Violet (powerline)
+# Author: ruler501 (https://github.com/ruler501/base16-darkviolet)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#231a40"
+idle_fg = "#b08ae6"
+info_bg = "#4136d9"
+info_fg = "#000000"
+good_bg = "#4595e6"
+good_fg = "#000000"
+warning_bg = "#f29df2"
+warning_fg = "#000000"
+critical_bg = "#a82ee6"
+critical_fg = "#000000"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

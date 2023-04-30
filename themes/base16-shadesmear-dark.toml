@@ -1,0 +1,9 @@
+# Base16 ShadeSmear Dark
+# Author: Kyle Giammarco (http://kyle.giammar.co)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#e4e4e4"
+info_fg = "#e4e4e4"
+good_fg = "#71983b"
+warning_fg = "#307878"
+critical_fg = "#cc5450"

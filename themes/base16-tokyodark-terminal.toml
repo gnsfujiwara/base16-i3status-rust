@@ -1,0 +1,9 @@
+# Base16 Tokyodark Terminal
+# Author: Tiagovla (https://github.com/tiagovla/)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#4a5057"
+info_fg = "#4a5057"
+good_fg = "#95c561"
+warning_fg = "#d7a65f"
+critical_fg = "#ee6d85"

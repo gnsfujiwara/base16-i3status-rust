@@ -1,0 +1,17 @@
+# Base16 Porple (powerline)
+# Author: Niek den Breeje (https://github.com/AuditeMarlow)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#333344"
+idle_fg = "#d8d8d8"
+info_bg = "#8485ce"
+info_fg = "#292c36"
+good_bg = "#95c76f"
+good_fg = "#292c36"
+warning_bg = "#efa16b"
+warning_fg = "#292c36"
+critical_bg = "#f84547"
+critical_fg = "#292c36"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

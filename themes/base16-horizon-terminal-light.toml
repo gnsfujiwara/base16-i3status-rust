@@ -1,0 +1,9 @@
+# Base16 Horizon Terminal Light
+# Author: Michaël Ball (http://github.com/michael-ball/)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#948c8a"
+info_fg = "#948c8a"
+good_fg = "#29d398"
+warning_fg = "#fadad1"
+critical_fg = "#e95678"

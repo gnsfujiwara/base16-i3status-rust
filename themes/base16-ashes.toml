@@ -1,0 +1,9 @@
+# Base16 Ashes
+# Author: Jannik Siebert (https://github.com/janniks)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#adb3ba"
+info_fg = "#adb3ba"
+good_fg = "#95c7ae"
+warning_fg = "#aec795"
+critical_fg = "#c7ae95"

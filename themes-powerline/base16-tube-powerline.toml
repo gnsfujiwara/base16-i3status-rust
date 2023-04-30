@@ -1,0 +1,17 @@
+# Base16 London Tube (powerline)
+# Author: Jan T. Sott
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#1c3f95"
+idle_fg = "#d9d8d8"
+info_bg = "#009ddc"
+info_fg = "#231f20"
+good_bg = "#00853e"
+good_fg = "#231f20"
+warning_bg = "#ffd204"
+warning_fg = "#231f20"
+critical_bg = "#ee2e24"
+critical_fg = "#231f20"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

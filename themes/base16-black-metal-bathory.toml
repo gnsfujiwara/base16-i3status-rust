@@ -1,0 +1,9 @@
+# Base16 Black Metal (Bathory)
+# Author: metalelf0 (https://github.com/metalelf0)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#999999"
+info_fg = "#999999"
+good_fg = "#fbcb97"
+warning_fg = "#e78a53"
+critical_fg = "#5f8787"

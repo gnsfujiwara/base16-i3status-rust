@@ -1,0 +1,17 @@
+# Base16 Icy Dark (powerline)
+# Author: icyphox (https://icyphox.ga)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#031619"
+idle_fg = "#095b67"
+info_bg = "#00bcd4"
+info_fg = "#021012"
+good_bg = "#4dd0e1"
+good_fg = "#021012"
+warning_bg = "#80deea"
+warning_fg = "#021012"
+critical_bg = "#16c1d9"
+critical_fg = "#021012"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

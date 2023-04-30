@@ -1,0 +1,17 @@
+# Base16 Brush Trees (powerline)
+# Author: Abraham White &lt;abelincoln.white@gmail.com&gt;
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#c9dbdc"
+idle_fg = "#6d828e"
+info_bg = "#868cb3"
+info_fg = "#e3efef"
+good_bg = "#87b386"
+good_fg = "#e3efef"
+warning_bg = "#aab386"
+warning_fg = "#e3efef"
+critical_bg = "#b38686"
+critical_fg = "#e3efef"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

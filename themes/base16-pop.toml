@@ -1,0 +1,9 @@
+# Base16 Pop
+# Author: Chris Kempson (http://chriskempson.com)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#b0b0b0"
+info_fg = "#b0b0b0"
+good_fg = "#37b349"
+warning_fg = "#f8ca12"
+critical_fg = "#eb008a"

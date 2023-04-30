@@ -1,0 +1,17 @@
+# Base16 Atelier Lakeside Light (powerline)
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#c1e4f6"
+idle_fg = "#516d7b"
+info_bg = "#257fad"
+info_fg = "#ebf8ff"
+good_bg = "#568c3b"
+good_fg = "#ebf8ff"
+warning_bg = "#8a8a0f"
+warning_fg = "#ebf8ff"
+critical_bg = "#d22d72"
+critical_fg = "#ebf8ff"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

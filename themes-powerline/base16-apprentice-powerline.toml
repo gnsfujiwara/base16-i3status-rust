@@ -1,0 +1,17 @@
+# Base16 Apprentice (powerline)
+# Author: romainl
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#303030"
+idle_fg = "#bcbcbc"
+info_bg = "#ffffaf"
+info_fg = "#262626"
+good_bg = "#87af87"
+good_fg = "#262626"
+warning_bg = "#5f8787"
+warning_fg = "#262626"
+critical_bg = "#5f8787"
+critical_fg = "#262626"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

@@ -1,0 +1,17 @@
+# Base16 Qualia (powerline)
+# Author: isaacwhanson
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#454545"
+idle_fg = "#c0c0c0"
+info_bg = "#50cacd"
+info_fg = "#101010"
+good_bg = "#80c990"
+good_fg = "#101010"
+warning_bg = "#e6a3dc"
+warning_fg = "#101010"
+critical_bg = "#efa6a2"
+critical_fg = "#101010"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

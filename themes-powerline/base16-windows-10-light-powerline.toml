@@ -1,0 +1,17 @@
+# Base16 Windows 10 Light (powerline)
+# Author: Fergus Collins (https://github.com/C-Fergus)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#e5e5e5"
+idle_fg = "#767676"
+info_bg = "#0037da"
+info_fg = "#f2f2f2"
+good_bg = "#13a10e"
+good_fg = "#f2f2f2"
+warning_bg = "#c19c00"
+warning_fg = "#f2f2f2"
+critical_bg = "#c50f1f"
+critical_fg = "#f2f2f2"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

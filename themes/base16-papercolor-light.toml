@@ -1,0 +1,9 @@
+# Base16 PaperColor Light
+# Author: Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#0087af"
+info_fg = "#0087af"
+good_fg = "#8700af"
+warning_fg = "#d70087"
+critical_fg = "#bcbcbc"

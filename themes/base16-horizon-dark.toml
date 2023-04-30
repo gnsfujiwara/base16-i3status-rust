@@ -1,0 +1,9 @@
+# Base16 Horizon Dark
+# Author: Michaël Ball (http://github.com/michael-ball/)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#9da0a2"
+info_fg = "#9da0a2"
+good_fg = "#efaf8e"
+warning_fg = "#efb993"
+critical_fg = "#e93c58"

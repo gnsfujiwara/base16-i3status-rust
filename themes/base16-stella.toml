@@ -1,0 +1,9 @@
+# Base16 Stella
+# Author: Shrimpram
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#7f7192"
+info_fg = "#7f7192"
+good_fg = "#acc79b"
+warning_fg = "#c7c691"
+critical_fg = "#c79987"

@@ -1,0 +1,17 @@
+# Base16 pandora (powerline)
+# Author: Cassandra Fox
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#2f1823"
+idle_fg = "#f15c99"
+info_bg = "#008080"
+info_fg = "#131213"
+good_bg = "#9ddf69"
+good_fg = "#131213"
+warning_bg = "#ffcc00"
+warning_fg = "#131213"
+critical_bg = "#b00b69"
+critical_fg = "#131213"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

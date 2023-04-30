@@ -1,0 +1,9 @@
+# Base16 emil
+# Author: limelier
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#505063"
+info_fg = "#505063"
+good_fg = "#0073a8"
+warning_fg = "#ff669b"
+critical_fg = "#f43979"

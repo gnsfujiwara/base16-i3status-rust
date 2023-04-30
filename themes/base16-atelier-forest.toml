@@ -1,0 +1,9 @@
+# Base16 Atelier Forest
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#9c9491"
+info_fg = "#9c9491"
+good_fg = "#7b9726"
+warning_fg = "#c38418"
+critical_fg = "#f22c40"

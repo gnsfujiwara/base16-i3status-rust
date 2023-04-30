@@ -1,0 +1,9 @@
+# Base16 Brogrammer
+# Author: Vik Ramanujam (http://github.com/piggyslasher)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#2a84d2"
+info_fg = "#2a84d2"
+good_fg = "#f3bd09"
+warning_fg = "#1dd361"
+critical_fg = "#d6dbe5"

@@ -1,0 +1,17 @@
+# Base16 iA Light (powerline)
+# Author: iA Inc. (modified by aramisgithub)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#dedede"
+idle_fg = "#181818"
+info_bg = "#48bac2"
+info_fg = "#f6f6f6"
+good_bg = "#38781c"
+good_fg = "#f6f6f6"
+warning_bg = "#c48218"
+warning_fg = "#f6f6f6"
+critical_bg = "#9c5a02"
+critical_fg = "#f6f6f6"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

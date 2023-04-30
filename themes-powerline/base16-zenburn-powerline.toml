@@ -1,0 +1,17 @@
+# Base16 Zenburn (powerline)
+# Author: elnawe
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#404040"
+idle_fg = "#dcdccc"
+info_bg = "#7cb8bb"
+info_fg = "#383838"
+good_bg = "#5f7f5f"
+good_fg = "#383838"
+warning_bg = "#e0cf9f"
+warning_fg = "#383838"
+critical_bg = "#dca3a3"
+critical_fg = "#383838"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

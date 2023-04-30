@@ -1,0 +1,17 @@
+# Base16 Da One Black (powerline)
+# Author: NNB (https://github.com/NNBnh)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#282828"
+idle_fg = "#ffffff"
+info_bg = "#6bb8ff"
+info_fg = "#000000"
+good_bg = "#98c379"
+good_fg = "#000000"
+warning_bg = "#ff9470"
+warning_fg = "#000000"
+critical_bg = "#fa7883"
+critical_fg = "#000000"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

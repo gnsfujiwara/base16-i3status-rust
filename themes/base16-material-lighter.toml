@@ -1,0 +1,9 @@
+# Base16 Material Lighter
+# Author: Nate Peterson
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#8796b0"
+info_fg = "#8796b0"
+good_fg = "#91b859"
+warning_fg = "#ffb62c"
+critical_fg = "#ff5370"

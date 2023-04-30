@@ -1,0 +1,17 @@
+# Base16 Tango (powerline)
+# Author: @Schnouki, based on the Tango Desktop Project
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#8ae234"
+idle_fg = "#d3d7cf"
+info_bg = "#3465a4"
+info_fg = "#2e3436"
+good_bg = "#4e9a06"
+good_fg = "#2e3436"
+warning_bg = "#c4a000"
+warning_fg = "#2e3436"
+critical_bg = "#cc0000"
+critical_fg = "#2e3436"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

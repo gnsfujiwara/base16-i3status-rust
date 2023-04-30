@@ -1,0 +1,9 @@
+# Base16 Nord
+# Author: arcticicestudio
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#d8dee9"
+info_fg = "#d8dee9"
+good_fg = "#a3be8c"
+warning_fg = "#ebcb8b"
+critical_fg = "#bf616a"

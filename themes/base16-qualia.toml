@@ -1,0 +1,9 @@
+# Base16 Qualia
+# Author: isaacwhanson
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#808080"
+info_fg = "#808080"
+good_fg = "#80c990"
+warning_fg = "#e6a3dc"
+critical_fg = "#efa6a2"

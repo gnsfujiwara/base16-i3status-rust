@@ -1,0 +1,17 @@
+# Base16 Apathy (powerline)
+# Author: Jannik Siebert (https://github.com/janniks)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#0b342d"
+idle_fg = "#81b5ac"
+info_bg = "#96883e"
+info_fg = "#031a16"
+good_bg = "#883e96"
+good_fg = "#031a16"
+warning_bg = "#3e4c96"
+warning_fg = "#031a16"
+critical_bg = "#3e9688"
+critical_fg = "#031a16"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

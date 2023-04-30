@@ -1,0 +1,9 @@
+# Base16 Mountain
+# Author: gnsfujiwara (https://github.com/gnsfujiwara)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#ac8a8c"
+info_fg = "#ac8a8c"
+good_fg = "#8aac8b"
+warning_fg = "#aca98a"
+critical_fg = "#ac8a8c"

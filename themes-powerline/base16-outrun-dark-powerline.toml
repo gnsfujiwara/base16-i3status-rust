@@ -1,0 +1,17 @@
+# Base16 Outrun Dark (powerline)
+# Author: Hugo Delahousse (http://github.com/hugodelahousse/)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#20204a"
+idle_fg = "#d0d0fa"
+info_bg = "#66b0ff"
+info_fg = "#00002a"
+good_bg = "#59f176"
+good_fg = "#00002a"
+warning_bg = "#f3e877"
+warning_fg = "#00002a"
+critical_bg = "#ff4242"
+critical_fg = "#00002a"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

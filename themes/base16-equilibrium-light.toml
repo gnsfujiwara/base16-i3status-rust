@@ -1,0 +1,9 @@
+# Base16 Equilibrium Light
+# Author: Carlo Abelli
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#5a5f66"
+info_fg = "#5a5f66"
+good_fg = "#637200"
+warning_fg = "#9d6f00"
+critical_fg = "#d02023"

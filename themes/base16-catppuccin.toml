@@ -1,0 +1,9 @@
+# Base16 Catppuccin
+# Author: Pocco81 (https://github.com/pocco81)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#6e6c7c"
+info_fg = "#6e6c7c"
+good_fg = "#abe9b3"
+warning_fg = "#fae3b0"
+critical_fg = "#f28fad"

@@ -1,0 +1,17 @@
+# Base16 Tokyodark Terminal (powerline)
+# Author: Tiagovla (https://github.com/tiagovla/)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#1a1b2a"
+idle_fg = "#a0a8cd"
+info_bg = "#7199ee"
+info_fg = "#11121d"
+good_bg = "#95c561"
+good_fg = "#11121d"
+warning_bg = "#d7a65f"
+warning_fg = "#11121d"
+critical_bg = "#ee6d85"
+critical_fg = "#11121d"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

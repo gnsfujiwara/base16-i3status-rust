@@ -1,0 +1,9 @@
+# Base16 Horizon Light
+# Author: Michaël Ball (http://github.com/michael-ball/)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#948c8a"
+info_fg = "#948c8a"
+good_fg = "#94e1b0"
+warning_fg = "#fbe0d9"
+critical_fg = "#f7939b"

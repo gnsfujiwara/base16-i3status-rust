@@ -1,0 +1,9 @@
+# Base16 Windows 95
+# Author: Fergus Collins (https://github.com/C-Fergus)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#7e7e7e"
+info_fg = "#7e7e7e"
+good_fg = "#54fc54"
+warning_fg = "#fcfc54"
+critical_fg = "#fc5454"

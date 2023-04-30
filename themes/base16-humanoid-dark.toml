@@ -1,0 +1,9 @@
+# Base16 Humanoid dark
+# Author: Thomas (tasmo) Friese
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#c0c0bd"
+info_fg = "#c0c0bd"
+good_fg = "#02d849"
+warning_fg = "#ffb627"
+critical_fg = "#f11235"

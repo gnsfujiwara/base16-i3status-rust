@@ -1,0 +1,9 @@
+# Base16 iA Light
+# Author: iA Inc. (modified by aramisgithub)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#767676"
+info_fg = "#767676"
+good_fg = "#38781c"
+warning_fg = "#c48218"
+critical_fg = "#9c5a02"

@@ -1,0 +1,9 @@
+# Base16 Rosé Pine
+# Author: Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#6e6a86"
+info_fg = "#6e6a86"
+good_fg = "#ebbcba"
+warning_fg = "#f6c177"
+critical_fg = "#e2e1e7"

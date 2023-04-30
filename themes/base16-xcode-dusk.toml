@@ -1,0 +1,9 @@
+# Base16 XCode Dusk
+# Author: Elsa Gonsiorowski (https://github.com/gonsie)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#7e8086"
+info_fg = "#7e8086"
+good_fg = "#df0002"
+warning_fg = "#438288"
+critical_fg = "#b21889"

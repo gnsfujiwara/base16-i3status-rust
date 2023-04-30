@@ -1,0 +1,9 @@
+# Base16 OneDark
+# Author: Lalit Magant (http://github.com/tilal6991)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#565c64"
+info_fg = "#565c64"
+good_fg = "#98c379"
+warning_fg = "#e5c07b"
+critical_fg = "#e06c75"

@@ -1,0 +1,9 @@
+# Base16 Darktooth
+# Author: Jason Milkins (https://github.com/jasonm23)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#928374"
+info_fg = "#928374"
+good_fg = "#95c085"
+warning_fg = "#fac03b"
+critical_fg = "#fb543f"

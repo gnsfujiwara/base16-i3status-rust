@@ -1,0 +1,9 @@
+# Base16 Synth Midnight Terminal Light
+# Author: Michaël Ball (http://github.com/michael-ball/)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#474849"
+info_fg = "#474849"
+good_fg = "#06ea61"
+warning_fg = "#c9d364"
+critical_fg = "#b53b50"

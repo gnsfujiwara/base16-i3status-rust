@@ -1,0 +1,17 @@
+# Base16 Zenbones (powerline)
+# Author: mcchrish
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#de6e7c"
+idle_fg = "#b279a7"
+info_bg = "#cf86c1"
+info_fg = "#191919"
+good_bg = "#d68c67"
+good_fg = "#191919"
+warning_bg = "#8bae68"
+warning_fg = "#191919"
+critical_bg = "#3d3839"
+critical_fg = "#191919"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

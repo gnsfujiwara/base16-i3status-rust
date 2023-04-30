@@ -1,0 +1,17 @@
+# Base16 Equilibrium Gray Light (powerline)
+# Author: Carlo Abelli
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#e2e2e2"
+idle_fg = "#474747"
+info_bg = "#0073b5"
+info_fg = "#f1f1f1"
+good_bg = "#637200"
+good_fg = "#f1f1f1"
+warning_bg = "#9d6f00"
+warning_fg = "#f1f1f1"
+critical_bg = "#d02023"
+critical_fg = "#f1f1f1"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

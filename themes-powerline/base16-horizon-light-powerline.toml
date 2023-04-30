@@ -1,0 +1,17 @@
+# Base16 Horizon Light (powerline)
+# Author: Michaël Ball (http://github.com/michael-ball/)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#fadad1"
+idle_fg = "#403c3d"
+info_bg = "#da103f"
+info_fg = "#fdf0ed"
+good_bg = "#94e1b0"
+good_fg = "#fdf0ed"
+warning_bg = "#fbe0d9"
+warning_fg = "#fdf0ed"
+critical_bg = "#f7939b"
+critical_fg = "#fdf0ed"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

@@ -1,0 +1,9 @@
+# Base16 Everforest
+# Author: Sainnhe Park (https://github.com/sainnhe)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#9da9a0"
+info_fg = "#9da9a0"
+good_fg = "#83c092"
+warning_fg = "#dbbc7f"
+critical_fg = "#7fbbb3"

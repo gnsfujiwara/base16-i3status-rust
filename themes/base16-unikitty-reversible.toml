@@ -1,0 +1,9 @@
+# Base16 Unikitty Reversible
+# Author: Josh W Lewis (@joshwlewis)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#a5a3a6"
+info_fg = "#a5a3a6"
+good_fg = "#17ad98"
+warning_fg = "#dc8a0e"
+critical_fg = "#d8137f"

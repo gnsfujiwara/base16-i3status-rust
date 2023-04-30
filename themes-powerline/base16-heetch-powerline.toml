@@ -1,0 +1,17 @@
+# Base16 Heetch Dark (powerline)
+# Author: Geoffrey Teale (tealeg@gmail.com)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#392551"
+idle_fg = "#bdb6c5"
+info_bg = "#bd0152"
+info_fg = "#190134"
+good_bg = "#c33678"
+good_fg = "#190134"
+warning_bg = "#8f6c97"
+warning_fg = "#190134"
+critical_bg = "#27d9d5"
+critical_fg = "#190134"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

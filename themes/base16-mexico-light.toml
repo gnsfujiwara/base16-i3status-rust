@@ -1,0 +1,9 @@
+# Base16 Mexico Light
+# Author: Sheldon Johnson
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#585858"
+info_fg = "#585858"
+good_fg = "#538947"
+warning_fg = "#f79a0e"
+critical_fg = "#ab4642"

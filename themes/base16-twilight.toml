@@ -1,0 +1,9 @@
+# Base16 Twilight
+# Author: David Hart (https://github.com/hartbit)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#838184"
+info_fg = "#838184"
+good_fg = "#8f9d6a"
+warning_fg = "#f9ee98"
+critical_fg = "#cf6a4c"

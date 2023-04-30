@@ -1,0 +1,9 @@
+# Base16 Isotope
+# Author: Jan T. Sott
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#c0c0c0"
+info_fg = "#c0c0c0"
+good_fg = "#33ff00"
+warning_fg = "#ff0099"
+critical_fg = "#ff0000"

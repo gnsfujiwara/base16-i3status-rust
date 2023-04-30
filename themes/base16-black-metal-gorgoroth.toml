@@ -1,0 +1,9 @@
+# Base16 Black Metal (Gorgoroth)
+# Author: metalelf0 (https://github.com/metalelf0)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#999999"
+info_fg = "#999999"
+good_fg = "#9b8d7f"
+warning_fg = "#8c7f70"
+critical_fg = "#5f8787"

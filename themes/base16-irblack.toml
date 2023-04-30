@@ -1,0 +1,9 @@
+# Base16 IR Black
+# Author: Timothée Poisot (http://timotheepoisot.fr)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#918f88"
+info_fg = "#918f88"
+good_fg = "#a8ff60"
+warning_fg = "#ffffb6"
+critical_fg = "#ff6c60"

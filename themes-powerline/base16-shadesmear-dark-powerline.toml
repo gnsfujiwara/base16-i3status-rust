@@ -1,0 +1,17 @@
+# Base16 ShadeSmear Dark (powerline)
+# Author: Kyle Giammarco (http://kyle.giammar.co)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#1c1c1c"
+idle_fg = "#dbdbdb"
+info_bg = "#376388"
+info_fg = "#232323"
+good_bg = "#71983b"
+good_fg = "#232323"
+warning_bg = "#307878"
+warning_fg = "#232323"
+critical_bg = "#cc5450"
+critical_fg = "#232323"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

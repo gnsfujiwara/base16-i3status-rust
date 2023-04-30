@@ -1,0 +1,17 @@
+# Base16 Fruit Soda (powerline)
+# Author: jozip
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#e0dee0"
+idle_fg = "#515151"
+info_bg = "#2931df"
+info_fg = "#f1ecf1"
+good_bg = "#47f74c"
+good_fg = "#f1ecf1"
+warning_bg = "#f7e203"
+warning_fg = "#f1ecf1"
+critical_bg = "#fe3e31"
+critical_fg = "#f1ecf1"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

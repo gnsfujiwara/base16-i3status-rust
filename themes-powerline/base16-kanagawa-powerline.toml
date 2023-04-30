@@ -1,0 +1,17 @@
+# Base16 Kanagawa (powerline)
+# Author: Tommaso Laurenzi (https://github.com/rebelot)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#16161d"
+idle_fg = "#dcd7ba"
+info_bg = "#7e9cd8"
+info_fg = "#1f1f28"
+good_bg = "#76946a"
+good_fg = "#1f1f28"
+warning_bg = "#c0a36e"
+warning_fg = "#1f1f28"
+critical_bg = "#c34043"
+critical_fg = "#1f1f28"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

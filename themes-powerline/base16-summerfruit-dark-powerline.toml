@@ -1,0 +1,17 @@
+# Base16 Summerfruit Dark (powerline)
+# Author: Christopher Corley (http://christop.club/)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#202020"
+idle_fg = "#d0d0d0"
+info_bg = "#3777e6"
+info_fg = "#151515"
+good_bg = "#00c918"
+good_fg = "#151515"
+warning_bg = "#aba800"
+warning_fg = "#151515"
+critical_bg = "#ff0086"
+critical_fg = "#151515"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

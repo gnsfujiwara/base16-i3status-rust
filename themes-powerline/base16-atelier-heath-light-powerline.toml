@@ -1,0 +1,17 @@
+# Base16 Atelier Heath Light (powerline)
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#d8cad8"
+idle_fg = "#695d69"
+info_bg = "#516aec"
+info_fg = "#f7f3f7"
+good_bg = "#918b3b"
+good_fg = "#f7f3f7"
+warning_bg = "#bb8a35"
+warning_fg = "#f7f3f7"
+critical_bg = "#ca402b"
+critical_fg = "#f7f3f7"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

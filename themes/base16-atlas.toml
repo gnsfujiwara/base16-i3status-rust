@@ -1,0 +1,9 @@
+# Base16 Atlas
+# Author: Alex Lende (https://ajlende.com)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#869696"
+info_fg = "#869696"
+good_fg = "#7fc06e"
+warning_fg = "#ffcc1b"
+critical_fg = "#ff5a67"

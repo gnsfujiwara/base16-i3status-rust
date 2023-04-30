@@ -1,0 +1,9 @@
+# Base16 Horizon Terminal Dark
+# Author: Michaël Ball (http://github.com/michael-ball/)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#9da0a2"
+info_fg = "#9da0a2"
+good_fg = "#29d398"
+warning_fg = "#fac29a"
+critical_fg = "#e95678"

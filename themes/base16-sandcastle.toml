@@ -1,0 +1,9 @@
+# Base16 Sandcastle
+# Author: George Essig (https://github.com/gessig)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#928374"
+info_fg = "#928374"
+good_fg = "#528b8b"
+warning_fg = "#a07e3b"
+critical_fg = "#83a598"

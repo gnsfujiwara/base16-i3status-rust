@@ -1,0 +1,17 @@
+# Base16 Tokyo City Dark (powerline)
+# Author: Michaël Ball
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#1d252c"
+idle_fg = "#d8e2ec"
+info_bg = "#7aa2f7"
+info_fg = "#171d23"
+good_bg = "#9ece6a"
+good_fg = "#171d23"
+warning_bg = "#b7c5d3"
+warning_fg = "#171d23"
+critical_bg = "#f7768e"
+critical_fg = "#171d23"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

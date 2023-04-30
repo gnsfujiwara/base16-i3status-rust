@@ -1,0 +1,9 @@
+# Base16 Da One White
+# Author: NNB (https://github.com/NNBnh)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#282828"
+info_fg = "#282828"
+good_fg = "#76a85d"
+warning_fg = "#b3684f"
+critical_fg = "#de5d6e"

@@ -1,0 +1,9 @@
+# Base16 Circus
+# Author: Stephan Boyer (https://github.com/stepchowfun) and Esther Wang (https://github.com/ewang12)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#505050"
+info_fg = "#505050"
+good_fg = "#84b97c"
+warning_fg = "#c3ba63"
+critical_fg = "#dc657d"

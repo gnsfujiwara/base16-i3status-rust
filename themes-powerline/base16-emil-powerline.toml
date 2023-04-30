@@ -1,0 +1,17 @@
+# Base16 emil (powerline)
+# Author: limelier
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#bebed2"
+idle_fg = "#313145"
+info_bg = "#471397"
+info_fg = "#efefef"
+good_bg = "#0073a8"
+good_fg = "#efefef"
+warning_bg = "#ff669b"
+warning_fg = "#efefef"
+critical_bg = "#f43979"
+critical_fg = "#efefef"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

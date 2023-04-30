@@ -1,0 +1,9 @@
+# Base16 Material Vivid
+# Author: joshyrobot
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#676c71"
+info_fg = "#676c71"
+good_fg = "#00e676"
+warning_fg = "#ffeb3b"
+critical_fg = "#f44336"

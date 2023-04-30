@@ -1,0 +1,9 @@
+# Base16 Dark Violet
+# Author: ruler501 (https://github.com/ruler501/base16-darkviolet)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#00ff00"
+info_fg = "#00ff00"
+good_fg = "#4595e6"
+warning_fg = "#f29df2"
+critical_fg = "#a82ee6"

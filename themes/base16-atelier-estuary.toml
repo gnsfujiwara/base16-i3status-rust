@@ -1,0 +1,9 @@
+# Base16 Atelier Estuary
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#878573"
+info_fg = "#878573"
+good_fg = "#7d9726"
+warning_fg = "#a5980d"
+critical_fg = "#ba6236"

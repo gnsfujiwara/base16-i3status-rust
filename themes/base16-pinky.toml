@@ -1,0 +1,9 @@
+# Base16 pinky
+# Author: Benjamin (https://github.com/b3nj5m1n)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#e7dbdb"
+info_fg = "#e7dbdb"
+good_fg = "#ff0066"
+warning_fg = "#20df6c"
+critical_fg = "#ffa600"

@@ -1,0 +1,9 @@
+# Base16 Kimber
+# Author: Mishka Nguyen (https://github.com/akhsiM)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#5a5a5a"
+info_fg = "#5a5a5a"
+good_fg = "#99c899"
+warning_fg = "#d8b56d"
+critical_fg = "#c88c8c"

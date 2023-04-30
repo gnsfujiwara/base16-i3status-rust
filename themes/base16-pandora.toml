@@ -1,0 +1,9 @@
+# Base16 pandora
+# Author: Cassandra Fox
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#9b2a46"
+info_fg = "#9b2a46"
+good_fg = "#9ddf69"
+warning_fg = "#ffcc00"
+critical_fg = "#b00b69"

@@ -1,0 +1,17 @@
+# Base16 tender (powerline)
+# Author: Jacobo Tabernero (https://github/com/jacoborus/tender.vim)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#383838"
+idle_fg = "#eeeeee"
+info_bg = "#b3deef"
+info_fg = "#282828"
+good_bg = "#c9d05c"
+good_fg = "#282828"
+warning_bg = "#ffc24b"
+warning_fg = "#282828"
+critical_bg = "#f43753"
+critical_fg = "#282828"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

@@ -1,0 +1,17 @@
+# Base16 Material Vivid (powerline)
+# Author: joshyrobot
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#27292c"
+idle_fg = "#80868b"
+info_bg = "#2196f3"
+info_fg = "#202124"
+good_bg = "#00e676"
+good_fg = "#202124"
+warning_bg = "#ffeb3b"
+warning_fg = "#202124"
+critical_bg = "#f44336"
+critical_fg = "#202124"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

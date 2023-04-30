@@ -1,0 +1,9 @@
+# Base16 Eighties
+# Author: Chris Kempson (http://chriskempson.com)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#a09f93"
+info_fg = "#a09f93"
+good_fg = "#99cc99"
+warning_fg = "#ffcc66"
+critical_fg = "#f2777a"

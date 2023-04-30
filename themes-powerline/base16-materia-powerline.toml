@@ -1,0 +1,17 @@
+# Base16 Materia (powerline)
+# Author: Defman21
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#2c393f"
+idle_fg = "#cdd3de"
+info_bg = "#89ddff"
+info_fg = "#263238"
+good_bg = "#8bd649"
+good_fg = "#263238"
+warning_bg = "#ffcc00"
+warning_fg = "#263238"
+critical_bg = "#ec5f67"
+critical_fg = "#263238"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

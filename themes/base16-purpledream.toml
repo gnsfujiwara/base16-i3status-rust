@@ -1,0 +1,9 @@
+# Base16 Purpledream
+# Author: malet
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#bbb0bb"
+info_fg = "#bbb0bb"
+good_fg = "#14cc64"
+warning_fg = "#f000a0"
+critical_fg = "#ff1d0d"

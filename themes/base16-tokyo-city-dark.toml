@@ -1,0 +1,9 @@
+# Base16 Tokyo City Dark
+# Author: Michaël Ball
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#b7c5d3"
+info_fg = "#b7c5d3"
+good_fg = "#9ece6a"
+warning_fg = "#b7c5d3"
+critical_fg = "#f7768e"

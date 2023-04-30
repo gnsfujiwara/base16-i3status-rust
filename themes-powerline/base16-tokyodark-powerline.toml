@@ -1,0 +1,17 @@
+# Base16 Tokyodark (powerline)
+# Author: Tiagovla (https://github.com/tiagovla/)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#151621"
+idle_fg = "#abb2bf"
+info_bg = "#95c561"
+info_fg = "#11121d"
+good_bg = "#d7a65f"
+good_fg = "#11121d"
+warning_bg = "#7199ee"
+warning_fg = "#11121d"
+critical_bg = "#a485dd"
+critical_fg = "#11121d"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

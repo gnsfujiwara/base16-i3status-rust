@@ -1,0 +1,9 @@
+# Base16 dirtysea
+# Author: Kahlil (Kal) Hodgson
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#202020"
+info_fg = "#202020"
+good_fg = "#730073"
+warning_fg = "#755b00"
+critical_fg = "#840000"

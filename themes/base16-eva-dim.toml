@@ -1,0 +1,9 @@
+# Base16 Eva Dim
+# Author: kjakapat (https://github.com/kjakapat)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#7e90a3"
+info_fg = "#7e90a3"
+good_fg = "#5de561"
+warning_fg = "#cfd05d"
+critical_fg = "#c4676c"

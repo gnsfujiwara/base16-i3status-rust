@@ -1,0 +1,17 @@
+# Base16 Classic Dark (powerline)
+# Author: Jason Heeris (http://heeris.id.au)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#202020"
+idle_fg = "#d0d0d0"
+info_bg = "#6a9fb5"
+info_fg = "#151515"
+good_bg = "#90a959"
+good_fg = "#151515"
+warning_bg = "#f4bf75"
+warning_fg = "#151515"
+critical_bg = "#ac4142"
+critical_fg = "#151515"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

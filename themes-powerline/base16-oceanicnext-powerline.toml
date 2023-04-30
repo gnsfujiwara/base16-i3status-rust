@@ -1,0 +1,17 @@
+# Base16 OceanicNext (powerline)
+# Author: https://github.com/voronianski/oceanic-next-color-scheme
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#343d46"
+idle_fg = "#c0c5ce"
+info_bg = "#6699cc"
+info_fg = "#1b2b34"
+good_bg = "#99c794"
+good_fg = "#1b2b34"
+warning_bg = "#fac863"
+warning_fg = "#1b2b34"
+critical_bg = "#ec5f67"
+critical_fg = "#1b2b34"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

@@ -1,0 +1,17 @@
+# Base16 Rosé Pine Moon (powerline)
+# Author: Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#2a273f"
+idle_fg = "#e0def4"
+info_bg = "#9ccfd8"
+info_fg = "#232136"
+good_bg = "#ea9a97"
+good_fg = "#232136"
+warning_bg = "#f6c177"
+warning_fg = "#232136"
+critical_bg = "#ecebf0"
+critical_fg = "#232136"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

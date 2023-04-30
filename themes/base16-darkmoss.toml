@@ -1,0 +1,9 @@
+# Base16 darkmoss
+# Author: Gabriel Avanzi (https://github.com/avanzzzi)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#818f80"
+info_fg = "#818f80"
+good_fg = "#499180"
+warning_fg = "#fdb11f"
+critical_fg = "#ff4658"

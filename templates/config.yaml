@@ -1,0 +1,7 @@
+default:
+  extension: .toml
+  output: themes
+
+powerline:
+  extension: -powerline.toml
+  output: themes-powerline

@@ -1,0 +1,17 @@
+# Base16 Atlas (powerline)
+# Author: Alex Lende (https://ajlende.com)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#00384d"
+idle_fg = "#a1a19a"
+info_bg = "#5dd7b9"
+info_fg = "#002635"
+good_bg = "#7fc06e"
+good_fg = "#002635"
+warning_bg = "#ffcc1b"
+warning_fg = "#002635"
+critical_bg = "#ff5a67"
+critical_fg = "#002635"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

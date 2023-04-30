@@ -1,0 +1,17 @@
+# Base16 Atelier Dune (powerline)
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#292824"
+idle_fg = "#a6a28c"
+info_bg = "#6684e1"
+info_fg = "#20201d"
+good_bg = "#60ac39"
+good_fg = "#20201d"
+warning_bg = "#ae9513"
+warning_fg = "#20201d"
+critical_bg = "#d73737"
+critical_fg = "#20201d"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

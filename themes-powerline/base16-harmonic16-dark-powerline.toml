@@ -1,0 +1,17 @@
+# Base16 Harmonic16 Dark (powerline)
+# Author: Jannik Siebert (https://github.com/janniks)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#223b54"
+idle_fg = "#cbd6e2"
+info_bg = "#8b56bf"
+info_fg = "#0b1c2c"
+good_bg = "#56bf8b"
+good_fg = "#0b1c2c"
+warning_bg = "#8bbf56"
+warning_fg = "#0b1c2c"
+critical_bg = "#bf8b56"
+critical_fg = "#0b1c2c"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

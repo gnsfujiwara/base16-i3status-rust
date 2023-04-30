@@ -1,0 +1,9 @@
+# Base16 Ayu Dark
+# Author: Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#bfbdb6"
+info_fg = "#bfbdb6"
+good_fg = "#b8cc52"
+warning_fg = "#ffb454"
+critical_fg = "#f07178"

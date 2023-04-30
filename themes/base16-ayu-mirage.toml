@@ -1,0 +1,9 @@
+# Base16 Ayu Mirage
+# Author: Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#8a9199"
+info_fg = "#8a9199"
+good_fg = "#d5ff80"
+warning_fg = "#ffd173"
+critical_fg = "#f28779"

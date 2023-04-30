@@ -1,0 +1,17 @@
+# Base16 Atelier Heath (powerline)
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#292329"
+idle_fg = "#ab9bab"
+info_bg = "#516aec"
+info_fg = "#1b181b"
+good_bg = "#918b3b"
+good_fg = "#1b181b"
+warning_bg = "#bb8a35"
+warning_fg = "#1b181b"
+critical_bg = "#ca402b"
+critical_fg = "#1b181b"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

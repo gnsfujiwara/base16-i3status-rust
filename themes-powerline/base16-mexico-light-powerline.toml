@@ -1,0 +1,17 @@
+# Base16 Mexico Light (powerline)
+# Author: Sheldon Johnson
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#e8e8e8"
+idle_fg = "#383838"
+info_bg = "#7cafc2"
+info_fg = "#f8f8f8"
+good_bg = "#538947"
+good_fg = "#f8f8f8"
+warning_bg = "#f79a0e"
+warning_fg = "#f8f8f8"
+critical_bg = "#ab4642"
+critical_fg = "#f8f8f8"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

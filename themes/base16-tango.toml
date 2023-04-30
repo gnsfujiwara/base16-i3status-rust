@@ -1,0 +1,9 @@
+# Base16 Tango
+# Author: @Schnouki, based on the Tango Desktop Project
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#729fcf"
+info_fg = "#729fcf"
+good_fg = "#4e9a06"
+warning_fg = "#c4a000"
+critical_fg = "#cc0000"

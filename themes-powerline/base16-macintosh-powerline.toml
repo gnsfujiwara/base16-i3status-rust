@@ -1,0 +1,17 @@
+# Base16 Macintosh (powerline)
+# Author: Rebecca Bettencourt (http://www.kreativekorp.com)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#404040"
+idle_fg = "#c0c0c0"
+info_bg = "#0000d3"
+info_fg = "#000000"
+good_bg = "#1fb714"
+good_fg = "#000000"
+warning_bg = "#fbf305"
+warning_fg = "#000000"
+critical_bg = "#dd0907"
+critical_fg = "#000000"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

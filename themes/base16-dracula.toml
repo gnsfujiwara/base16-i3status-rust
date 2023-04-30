@@ -1,0 +1,9 @@
+# Base16 Dracula
+# Author: Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#62d6e8"
+info_fg = "#62d6e8"
+good_fg = "#ebff87"
+warning_fg = "#00f769"
+critical_fg = "#ea51b2"

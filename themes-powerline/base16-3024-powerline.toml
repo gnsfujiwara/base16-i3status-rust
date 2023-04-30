@@ -1,0 +1,17 @@
+# Base16 3024 (powerline)
+# Author: Jan T. Sott (http://github.com/idleberg)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#3a3432"
+idle_fg = "#a5a2a2"
+info_bg = "#01a0e4"
+info_fg = "#090300"
+good_bg = "#01a252"
+good_fg = "#090300"
+warning_bg = "#fded02"
+warning_fg = "#090300"
+critical_bg = "#db2d20"
+critical_fg = "#090300"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

@@ -1,0 +1,17 @@
+# Base16 Tokyo City Terminal Light (powerline)
+# Author: Michaël Ball
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#f6f6f8"
+idle_fg = "#28323a"
+info_bg = "#34548a"
+info_fg = "#fbfbfd"
+good_bg = "#33635c"
+good_fg = "#fbfbfd"
+warning_bg = "#8f5e15"
+warning_fg = "#fbfbfd"
+critical_bg = "#8c4351"
+critical_fg = "#fbfbfd"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

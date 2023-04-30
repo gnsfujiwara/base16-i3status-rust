@@ -1,0 +1,9 @@
+# Base16 Primer Light
+# Author: Jimmy Lin
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#444d56"
+info_fg = "#444d56"
+good_fg = "#28a745"
+warning_fg = "#ffd33d"
+critical_fg = "#d73a49"

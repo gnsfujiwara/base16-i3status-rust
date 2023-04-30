@@ -1,0 +1,9 @@
+# Base16 DanQing
+# Author: Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#cad8d2"
+info_fg = "#cad8d2"
+good_fg = "#8ab361"
+warning_fg = "#f0c239"
+critical_fg = "#f9906f"

@@ -1,0 +1,9 @@
+# Base16 Zenbones
+# Author: mcchrish
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#6099c0"
+info_fg = "#6099c0"
+good_fg = "#d68c67"
+warning_fg = "#8bae68"
+critical_fg = "#3d3839"

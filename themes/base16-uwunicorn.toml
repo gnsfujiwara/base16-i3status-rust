@@ -1,0 +1,9 @@
+# Base16 UwUnicorn
+# Author: Fernando Marques (https://github.com/RakkiUwU) and Gabriel Fontes (https://github.com/Misterio77)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#7e5f83"
+info_fg = "#7e5f83"
+good_fg = "#c965bf"
+warning_fg = "#a84a73"
+critical_fg = "#877bb6"

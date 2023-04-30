@@ -1,0 +1,9 @@
+# Base16 Marrakesh
+# Author: Alexandre Gavioli (http://github.com/Alexx2/)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#86813b"
+info_fg = "#86813b"
+good_fg = "#18974e"
+warning_fg = "#a88339"
+critical_fg = "#c35359"

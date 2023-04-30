@@ -1,0 +1,9 @@
+# Base16 Blue Forest
+# Author: alonsodomin (https://github.com/alonsodomin)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#1e5c1e"
+info_fg = "#1e5c1e"
+good_fg = "#80ff80"
+warning_fg = "#91ccff"
+critical_fg = "#fffab1"

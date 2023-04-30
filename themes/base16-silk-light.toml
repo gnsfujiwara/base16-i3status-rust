@@ -1,0 +1,9 @@
+# Base16 Silk Light
+# Author: Gabriel Fontes (https://github.com/Misterio77)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#4b5b5f"
+info_fg = "#4b5b5f"
+good_fg = "#6ca38c"
+warning_fg = "#cfad25"
+critical_fg = "#cf432e"

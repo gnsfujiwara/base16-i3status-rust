@@ -1,0 +1,17 @@
+# Base16 Brewer (powerline)
+# Author: Timothée Poisot (http://github.com/tpoisot)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#2e2f30"
+idle_fg = "#b7b8b9"
+info_bg = "#3182bd"
+info_fg = "#0c0d0e"
+good_bg = "#31a354"
+good_fg = "#0c0d0e"
+warning_bg = "#dca060"
+warning_fg = "#0c0d0e"
+critical_bg = "#e31a1c"
+critical_fg = "#0c0d0e"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

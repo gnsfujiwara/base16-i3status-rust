@@ -1,0 +1,17 @@
+# Base16 Black Metal (Mayhem) (powerline)
+# Author: metalelf0 (https://github.com/metalelf0)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#121212"
+idle_fg = "#c1c1c1"
+info_bg = "#888888"
+info_fg = "#000000"
+good_bg = "#f3ecd4"
+good_fg = "#000000"
+warning_bg = "#eecc6c"
+warning_fg = "#000000"
+critical_bg = "#5f8787"
+critical_fg = "#000000"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

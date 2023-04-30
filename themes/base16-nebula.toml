@@ -1,0 +1,9 @@
+# Base16 Nebula
+# Author: Gabriel Fontes (https://github.com/Misterio77)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#87888b"
+info_fg = "#87888b"
+good_fg = "#6562a8"
+warning_fg = "#4f9062"
+critical_fg = "#777abc"

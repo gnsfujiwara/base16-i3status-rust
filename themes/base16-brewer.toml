@@ -1,0 +1,9 @@
+# Base16 Brewer
+# Author: Timothée Poisot (http://github.com/tpoisot)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#959697"
+info_fg = "#959697"
+good_fg = "#31a354"
+warning_fg = "#dca060"
+critical_fg = "#e31a1c"

@@ -1,0 +1,9 @@
+# Base16 Tokyodark
+# Author: Tiagovla (https://github.com/tiagovla/)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#1b1c27"
+info_fg = "#1b1c27"
+good_fg = "#d7a65f"
+warning_fg = "#7199ee"
+critical_fg = "#a485dd"

@@ -1,0 +1,9 @@
+# Base16 Apprentice
+# Author: romainl
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#787878"
+info_fg = "#787878"
+good_fg = "#87af87"
+warning_fg = "#5f8787"
+critical_fg = "#5f8787"

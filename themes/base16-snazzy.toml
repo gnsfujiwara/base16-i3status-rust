@@ -1,0 +1,9 @@
+# Base16 Snazzy
+# Author: Chawye Hsu (https://github.com/chawyehsu) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#a5a5a9"
+info_fg = "#a5a5a9"
+good_fg = "#5af78e"
+warning_fg = "#f3f99d"
+critical_fg = "#ff5c57"

@@ -1,0 +1,17 @@
+# Base16 dirtysea (powerline)
+# Author: Kahlil (Kal) Hodgson
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#d0dad0"
+idle_fg = "#000000"
+info_bg = "#007300"
+info_fg = "#e0e0e0"
+good_bg = "#730073"
+good_fg = "#e0e0e0"
+warning_bg = "#755b00"
+warning_fg = "#e0e0e0"
+critical_bg = "#840000"
+critical_fg = "#e0e0e0"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

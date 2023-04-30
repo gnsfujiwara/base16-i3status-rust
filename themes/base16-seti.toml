@@ -1,0 +1,9 @@
+# Base16 Seti UI
+# Author: 
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#43a5d5"
+info_fg = "#43a5d5"
+good_fg = "#9fca56"
+warning_fg = "#e6cd69"
+critical_fg = "#cd3f45"

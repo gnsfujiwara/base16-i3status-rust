@@ -1,0 +1,9 @@
+# Base16 Atelier Heath Light
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#776977"
+info_fg = "#776977"
+good_fg = "#918b3b"
+warning_fg = "#bb8a35"
+critical_fg = "#ca402b"

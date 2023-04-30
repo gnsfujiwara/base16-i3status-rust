@@ -1,0 +1,9 @@
+# Base16 Windows 10 Light
+# Author: Fergus Collins (https://github.com/C-Fergus)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#ababab"
+info_fg = "#ababab"
+good_fg = "#13a10e"
+warning_fg = "#c19c00"
+critical_fg = "#c50f1f"

@@ -1,0 +1,9 @@
+# Base16 Icy Dark
+# Author: icyphox (https://icyphox.ga)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#064048"
+info_fg = "#064048"
+good_fg = "#4dd0e1"
+warning_fg = "#80deea"
+critical_fg = "#16c1d9"

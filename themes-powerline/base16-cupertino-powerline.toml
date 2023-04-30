@@ -1,0 +1,17 @@
+# Base16 Cupertino (powerline)
+# Author: Defman21
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#c0c0c0"
+idle_fg = "#404040"
+info_bg = "#0000ff"
+info_fg = "#ffffff"
+good_bg = "#007400"
+good_fg = "#ffffff"
+warning_bg = "#826b28"
+warning_fg = "#ffffff"
+critical_bg = "#c41a15"
+critical_fg = "#ffffff"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

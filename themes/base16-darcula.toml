@@ -1,0 +1,9 @@
+# Base16 Darcula
+# Author: jetbrains
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#a4a3a3"
+info_fg = "#a4a3a3"
+good_fg = "#6a8759"
+warning_fg = "#bbb529"
+critical_fg = "#4eade5"

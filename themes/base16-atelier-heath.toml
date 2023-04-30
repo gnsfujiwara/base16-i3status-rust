@@ -1,0 +1,9 @@
+# Base16 Atelier Heath
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#9e8f9e"
+info_fg = "#9e8f9e"
+good_fg = "#918b3b"
+warning_fg = "#bb8a35"
+critical_fg = "#ca402b"

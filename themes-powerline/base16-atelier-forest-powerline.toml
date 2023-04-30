@@ -1,0 +1,17 @@
+# Base16 Atelier Forest (powerline)
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#2c2421"
+idle_fg = "#a8a19f"
+info_bg = "#407ee7"
+info_fg = "#1b1918"
+good_bg = "#7b9726"
+good_fg = "#1b1918"
+warning_bg = "#c38418"
+warning_fg = "#1b1918"
+critical_bg = "#f22c40"
+critical_fg = "#1b1918"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

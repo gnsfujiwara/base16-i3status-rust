@@ -1,0 +1,9 @@
+# Base16 One Light
+# Author: Daniel Pfeifer (http://github.com/purpleKarrot)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#696c77"
+info_fg = "#696c77"
+good_fg = "#50a14f"
+warning_fg = "#c18401"
+critical_fg = "#ca1243"

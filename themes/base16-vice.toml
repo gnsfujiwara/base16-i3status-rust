@@ -1,0 +1,9 @@
+# Base16 vice
+# Author: Thomas Leon Highbaugh thighbaugh@zoho.com
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#555e70"
+info_fg = "#555e70"
+good_fg = "#0badff"
+warning_fg = "#f0ffaa"
+critical_fg = "#ff29a8"

@@ -1,0 +1,9 @@
+# Base16 Hardcore
+# Author: Chris Caller
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#707070"
+info_fg = "#707070"
+good_fg = "#a6e22e"
+warning_fg = "#e6db74"
+critical_fg = "#f92672"

@@ -1,0 +1,17 @@
+# Base16 Decaf (powerline)
+# Author: Alex Mirrington (https://github.com/alexmirrington)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#393939"
+idle_fg = "#cccccc"
+info_bg = "#90bee1"
+info_fg = "#2d2d2d"
+good_bg = "#beda78"
+good_fg = "#2d2d2d"
+warning_bg = "#ffd67c"
+warning_fg = "#2d2d2d"
+critical_bg = "#ff7f7b"
+critical_fg = "#2d2d2d"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

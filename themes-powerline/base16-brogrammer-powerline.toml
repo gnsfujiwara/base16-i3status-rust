@@ -1,0 +1,17 @@
+# Base16 Brogrammer (powerline)
+# Author: Vik Ramanujam (http://github.com/piggyslasher)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#f81118"
+idle_fg = "#4e5ab7"
+info_bg = "#5350b9"
+info_fg = "#1f1f1f"
+good_bg = "#f3bd09"
+good_fg = "#1f1f1f"
+warning_bg = "#1dd361"
+warning_fg = "#1f1f1f"
+critical_bg = "#d6dbe5"
+critical_fg = "#1f1f1f"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

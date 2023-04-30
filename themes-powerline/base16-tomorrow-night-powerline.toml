@@ -1,0 +1,17 @@
+# Base16 Tomorrow Night (powerline)
+# Author: Chris Kempson (http://chriskempson.com)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#282a2e"
+idle_fg = "#c5c8c6"
+info_bg = "#81a2be"
+info_fg = "#1d1f21"
+good_bg = "#b5bd68"
+good_fg = "#1d1f21"
+warning_bg = "#f0c674"
+warning_fg = "#1d1f21"
+critical_bg = "#cc6666"
+critical_fg = "#1d1f21"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

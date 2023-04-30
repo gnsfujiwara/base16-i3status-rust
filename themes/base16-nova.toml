@@ -1,0 +1,9 @@
+# Base16 Nova
+# Author: George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#899ba6"
+info_fg = "#899ba6"
+good_fg = "#7fc1ca"
+warning_fg = "#a8ce93"
+critical_fg = "#83afe5"

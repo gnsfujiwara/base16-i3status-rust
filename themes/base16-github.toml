@@ -1,0 +1,9 @@
+# Base16 Github
+# Author: Defman21
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#e8e8e8"
+info_fg = "#e8e8e8"
+good_fg = "#183691"
+warning_fg = "#795da3"
+critical_fg = "#ed6a43"

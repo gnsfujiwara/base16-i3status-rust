@@ -1,0 +1,9 @@
+# Base16 Gruber
+# Author: Patel, Nimai &lt;nimai.m.patel@gmail.com&gt;, colors from www.github.com/rexim/gruber-darker-theme
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#e4e4ef"
+info_fg = "#e4e4ef"
+good_fg = "#73c936"
+warning_fg = "#ffdd33"
+critical_fg = "#f43841"

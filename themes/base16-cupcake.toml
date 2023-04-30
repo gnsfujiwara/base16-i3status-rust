@@ -1,0 +1,9 @@
+# Base16 Cupcake
+# Author: Chris Kempson (http://chriskempson.com)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#a59daf"
+info_fg = "#a59daf"
+good_fg = "#a3b367"
+warning_fg = "#dcb16c"
+critical_fg = "#d57e85"

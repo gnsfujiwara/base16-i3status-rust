@@ -1,0 +1,17 @@
+# Base16 Atelier Savanna (powerline)
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#232a25"
+idle_fg = "#87928a"
+info_bg = "#478c90"
+info_fg = "#171c19"
+good_bg = "#489963"
+good_fg = "#171c19"
+warning_bg = "#a07e3b"
+warning_fg = "#171c19"
+critical_bg = "#b16139"
+critical_fg = "#171c19"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

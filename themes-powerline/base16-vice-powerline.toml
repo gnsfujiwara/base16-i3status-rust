@@ -1,0 +1,17 @@
+# Base16 vice (powerline)
+# Author: Thomas Leon Highbaugh thighbaugh@zoho.com
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#22262d"
+idle_fg = "#8b9cbe"
+info_bg = "#00eaff"
+info_fg = "#17191e"
+good_bg = "#0badff"
+good_fg = "#17191e"
+warning_bg = "#f0ffaa"
+warning_fg = "#17191e"
+critical_bg = "#ff29a8"
+critical_fg = "#17191e"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

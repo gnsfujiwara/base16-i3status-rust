@@ -1,0 +1,17 @@
+# Base16 Circus (powerline)
+# Author: Stephan Boyer (https://github.com/stepchowfun) and Esther Wang (https://github.com/ewang12)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#202020"
+idle_fg = "#a7a7a7"
+info_bg = "#639ee4"
+info_fg = "#191919"
+good_bg = "#84b97c"
+good_fg = "#191919"
+warning_bg = "#c3ba63"
+warning_fg = "#191919"
+critical_bg = "#dc657d"
+critical_fg = "#191919"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

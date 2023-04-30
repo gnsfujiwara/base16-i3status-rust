@@ -1,0 +1,17 @@
+# Base16 Primer Dark Dimmed (powerline)
+# Author: Jimmy Lin
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#373e47"
+idle_fg = "#909dab"
+info_bg = "#539bf5"
+info_fg = "#1c2128"
+good_bg = "#57ab5a"
+good_fg = "#1c2128"
+warning_bg = "#c69026"
+warning_fg = "#1c2128"
+critical_bg = "#f47067"
+critical_fg = "#1c2128"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

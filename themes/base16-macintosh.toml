@@ -1,0 +1,9 @@
+# Base16 Macintosh
+# Author: Rebecca Bettencourt (http://www.kreativekorp.com)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#808080"
+info_fg = "#808080"
+good_fg = "#1fb714"
+warning_fg = "#fbf305"
+critical_fg = "#dd0907"

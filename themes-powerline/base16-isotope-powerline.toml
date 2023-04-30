@@ -1,0 +1,17 @@
+# Base16 Isotope (powerline)
+# Author: Jan T. Sott
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#404040"
+idle_fg = "#d0d0d0"
+info_bg = "#0066ff"
+info_fg = "#000000"
+good_bg = "#33ff00"
+good_fg = "#000000"
+warning_bg = "#ff0099"
+warning_fg = "#000000"
+critical_bg = "#ff0000"
+critical_fg = "#000000"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

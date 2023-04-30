@@ -1,0 +1,17 @@
+# Base16 Edge Light (powerline)
+# Author: cjayross (https://github.com/cjayross)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#7c9f4b"
+idle_fg = "#5e646f"
+info_bg = "#6587bf"
+info_fg = "#fafafa"
+good_bg = "#7c9f4b"
+good_fg = "#fafafa"
+warning_bg = "#d69822"
+warning_fg = "#fafafa"
+critical_bg = "#db7070"
+critical_fg = "#fafafa"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

@@ -1,0 +1,17 @@
+# Base16 Gruvbox Material Light, Medium (powerline)
+# Author: Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#f2e5bc"
+idle_fg = "#654735"
+info_bg = "#45707a"
+info_fg = "#fbf1c7"
+good_bg = "#6c782e"
+good_fg = "#fbf1c7"
+warning_bg = "#b47109"
+warning_fg = "#fbf1c7"
+critical_bg = "#c14a4a"
+critical_fg = "#fbf1c7"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

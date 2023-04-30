@@ -1,0 +1,9 @@
+# Base16 Ocean
+# Author: Chris Kempson (http://chriskempson.com)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#a7adba"
+info_fg = "#a7adba"
+good_fg = "#a3be8c"
+warning_fg = "#ebcb8b"
+critical_fg = "#bf616a"

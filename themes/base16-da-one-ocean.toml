@@ -1,0 +1,9 @@
+# Base16 Da One Ocean
+# Author: NNB (https://github.com/NNBnh)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#c8c8c8"
+info_fg = "#c8c8c8"
+good_fg = "#98c379"
+warning_fg = "#ff9470"
+critical_fg = "#fa7883"

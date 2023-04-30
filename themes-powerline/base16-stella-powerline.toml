@@ -1,0 +1,17 @@
+# Base16 Stella (powerline)
+# Author: Shrimpram
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#362b48"
+idle_fg = "#998bad"
+info_bg = "#a5aad4"
+info_fg = "#2b213c"
+good_bg = "#acc79b"
+good_fg = "#2b213c"
+warning_bg = "#c7c691"
+warning_fg = "#2b213c"
+critical_bg = "#c79987"
+critical_fg = "#2b213c"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

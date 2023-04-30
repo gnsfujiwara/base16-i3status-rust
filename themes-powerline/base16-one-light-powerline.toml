@@ -1,0 +1,17 @@
+# Base16 One Light (powerline)
+# Author: Daniel Pfeifer (http://github.com/purpleKarrot)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#f0f0f1"
+idle_fg = "#383a42"
+info_bg = "#4078f2"
+info_fg = "#fafafa"
+good_bg = "#50a14f"
+good_fg = "#fafafa"
+warning_bg = "#c18401"
+warning_fg = "#fafafa"
+critical_bg = "#ca1243"
+critical_fg = "#fafafa"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

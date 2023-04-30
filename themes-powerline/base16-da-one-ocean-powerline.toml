@@ -1,0 +1,17 @@
+# Base16 Da One Ocean (powerline)
+# Author: NNB (https://github.com/NNBnh)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#22273d"
+idle_fg = "#ffffff"
+info_bg = "#6bb8ff"
+info_fg = "#171726"
+good_bg = "#98c379"
+good_fg = "#171726"
+warning_bg = "#ff9470"
+warning_fg = "#171726"
+critical_bg = "#fa7883"
+critical_fg = "#171726"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

@@ -1,0 +1,17 @@
+# Base16 Sandcastle (powerline)
+# Author: George Essig (https://github.com/gessig)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#2c323b"
+idle_fg = "#a89984"
+info_bg = "#83a598"
+info_fg = "#282c34"
+good_bg = "#528b8b"
+good_fg = "#282c34"
+warning_bg = "#a07e3b"
+warning_fg = "#282c34"
+critical_bg = "#83a598"
+critical_fg = "#282c34"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

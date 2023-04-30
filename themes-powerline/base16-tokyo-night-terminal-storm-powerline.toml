@@ -1,0 +1,17 @@
+# Base16 Tokyo Night Terminal Storm (powerline)
+# Author: Michaël Ball
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#1a1b26"
+idle_fg = "#787c99"
+info_bg = "#7aa2f7"
+info_fg = "#24283b"
+good_bg = "#41a6b5"
+good_fg = "#24283b"
+warning_bg = "#e0af68"
+warning_fg = "#24283b"
+critical_bg = "#f7768e"
+critical_fg = "#24283b"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

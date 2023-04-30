@@ -1,0 +1,17 @@
+# Base16 Twilight (powerline)
+# Author: David Hart (https://github.com/hartbit)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#323537"
+idle_fg = "#a7a7a7"
+info_bg = "#7587a6"
+info_fg = "#1e1e1e"
+good_bg = "#8f9d6a"
+good_fg = "#1e1e1e"
+warning_bg = "#f9ee98"
+warning_fg = "#1e1e1e"
+critical_bg = "#cf6a4c"
+critical_fg = "#1e1e1e"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

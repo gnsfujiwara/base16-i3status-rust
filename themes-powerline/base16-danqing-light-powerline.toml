@@ -1,0 +1,17 @@
+# Base16 DanQing Light (powerline)
+# Author: Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#ecf6f2"
+idle_fg = "#5a605d"
+info_bg = "#b0a4e3"
+info_fg = "#fcfefd"
+good_bg = "#8ab361"
+good_fg = "#fcfefd"
+warning_bg = "#f0c239"
+warning_fg = "#fcfefd"
+critical_bg = "#f9906f"
+critical_fg = "#fcfefd"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

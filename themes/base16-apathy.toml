@@ -1,0 +1,9 @@
+# Base16 Apathy
+# Author: Jannik Siebert (https://github.com/janniks)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#5f9c92"
+info_fg = "#5f9c92"
+good_fg = "#883e96"
+warning_fg = "#3e4c96"
+critical_fg = "#3e9688"

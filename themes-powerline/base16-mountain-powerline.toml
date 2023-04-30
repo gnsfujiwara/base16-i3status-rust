@@ -1,0 +1,17 @@
+# Base16 Mountain (powerline)
+# Author: gnsfujiwara (https://github.com/gnsfujiwara)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#191919"
+idle_fg = "#cacaca"
+info_bg = "#8f8aac"
+info_fg = "#0f0f0f"
+good_bg = "#8aac8b"
+good_fg = "#0f0f0f"
+warning_bg = "#aca98a"
+warning_fg = "#0f0f0f"
+critical_bg = "#ac8a8c"
+critical_fg = "#0f0f0f"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

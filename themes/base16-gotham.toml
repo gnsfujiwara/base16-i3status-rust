@@ -1,0 +1,9 @@
+# Base16 Gotham
+# Author: Andrea Leopardi (arranged by Brett Jones)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#245361"
+info_fg = "#245361"
+good_fg = "#33859e"
+warning_fg = "#edb443"
+critical_fg = "#c23127"

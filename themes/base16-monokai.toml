@@ -1,0 +1,9 @@
+# Base16 Monokai
+# Author: Wimer Hazenberg (http://www.monokai.nl)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#a59f85"
+info_fg = "#a59f85"
+good_fg = "#a6e22e"
+warning_fg = "#f4bf75"
+critical_fg = "#f92672"

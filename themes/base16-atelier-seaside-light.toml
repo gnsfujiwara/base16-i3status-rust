@@ -1,0 +1,9 @@
+# Base16 Atelier Seaside Light
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#687d68"
+info_fg = "#687d68"
+good_fg = "#29a329"
+warning_fg = "#98981b"
+critical_fg = "#e6193c"

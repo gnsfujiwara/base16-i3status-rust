@@ -1,0 +1,9 @@
+# Base16 Atelier Dune
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#999580"
+info_fg = "#999580"
+good_fg = "#60ac39"
+warning_fg = "#ae9513"
+critical_fg = "#d73737"

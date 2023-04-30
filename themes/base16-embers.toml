@@ -1,0 +1,9 @@
+# Base16 Embers
+# Author: Jannik Siebert (https://github.com/janniks)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#8a8075"
+info_fg = "#8a8075"
+good_fg = "#57826d"
+warning_fg = "#6d8257"
+critical_fg = "#826d57"

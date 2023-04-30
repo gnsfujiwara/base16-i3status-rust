@@ -1,0 +1,9 @@
+# Base16 Mocha
+# Author: Chris Kempson (http://chriskempson.com)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#b8afad"
+info_fg = "#b8afad"
+good_fg = "#beb55b"
+warning_fg = "#f4bc87"
+critical_fg = "#cb6077"

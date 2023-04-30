@@ -1,0 +1,9 @@
+# Base16 Equilibrium Dark
+# Author: Carlo Abelli
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#949088"
+info_fg = "#949088"
+good_fg = "#7f8b00"
+warning_fg = "#bb8801"
+critical_fg = "#f04339"

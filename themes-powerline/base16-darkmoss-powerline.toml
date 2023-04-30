@@ -1,0 +1,17 @@
+# Base16 darkmoss (powerline)
+# Author: Gabriel Avanzi (https://github.com/avanzzzi)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#252c2d"
+idle_fg = "#c7c7a5"
+info_bg = "#498091"
+info_fg = "#171e1f"
+good_bg = "#499180"
+good_fg = "#171e1f"
+warning_bg = "#fdb11f"
+warning_fg = "#171e1f"
+critical_bg = "#ff4658"
+critical_fg = "#171e1f"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

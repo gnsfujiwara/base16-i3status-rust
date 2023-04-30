@@ -1,0 +1,9 @@
+# Base16 Edge Dark
+# Author: cjayross (https://github.com/cjayross)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#73b3e7"
+info_fg = "#73b3e7"
+good_fg = "#a1bf78"
+warning_fg = "#dbb774"
+critical_fg = "#e77171"

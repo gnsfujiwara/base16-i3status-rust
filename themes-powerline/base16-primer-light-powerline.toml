@@ -1,0 +1,17 @@
+# Base16 Primer Light (powerline)
+# Author: Jimmy Lin
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#e1e4e8"
+idle_fg = "#2f363d"
+info_bg = "#0366d6"
+info_fg = "#fafbfc"
+good_bg = "#28a745"
+good_fg = "#fafbfc"
+warning_bg = "#ffd33d"
+warning_fg = "#fafbfc"
+critical_bg = "#d73a49"
+critical_fg = "#fafbfc"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

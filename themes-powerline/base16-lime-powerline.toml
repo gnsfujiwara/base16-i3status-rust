@@ -1,0 +1,17 @@
+# Base16 lime (powerline)
+# Author: limelier
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#202030"
+idle_fg = "#818175"
+info_bg = "#2b926f"
+info_fg = "#1a1a2f"
+good_bg = "#8cd97c"
+good_fg = "#1a1a2f"
+warning_bg = "#ffd15e"
+warning_fg = "#1a1a2f"
+critical_bg = "#ff662a"
+critical_fg = "#1a1a2f"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

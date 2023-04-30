@@ -1,0 +1,17 @@
+# Base16 Blueish (powerline)
+# Author: Ben Mayoras
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#243c54"
+idle_fg = "#c8e1f8"
+info_bg = "#82aaff"
+info_fg = "#182430"
+good_bg = "#c3e88d"
+good_fg = "#182430"
+warning_bg = "#82aaff"
+warning_fg = "#182430"
+critical_bg = "#4ce587"
+critical_fg = "#182430"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

@@ -1,0 +1,9 @@
+# Base16 Decaf
+# Author: Alex Mirrington (https://github.com/alexmirrington)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#b4b7b4"
+info_fg = "#b4b7b4"
+good_fg = "#beda78"
+warning_fg = "#ffd67c"
+critical_fg = "#ff7f7b"

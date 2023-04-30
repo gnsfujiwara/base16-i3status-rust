@@ -1,0 +1,17 @@
+# Base16 Framer (powerline)
+# Author: Framer (Maintained by Jesse Hoyos)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#151515"
+idle_fg = "#d0d0d0"
+info_bg = "#20bcfc"
+info_fg = "#181818"
+good_bg = "#32ccdc"
+good_fg = "#181818"
+warning_bg = "#fecb6e"
+warning_fg = "#181818"
+critical_bg = "#fd886b"
+critical_fg = "#181818"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

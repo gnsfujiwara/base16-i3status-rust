@@ -1,0 +1,17 @@
+# Base16 Marrakesh (powerline)
+# Author: Alexandre Gavioli (http://github.com/Alexx2/)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#302e00"
+idle_fg = "#948e48"
+info_bg = "#477ca1"
+info_fg = "#201602"
+good_bg = "#18974e"
+good_fg = "#201602"
+warning_bg = "#a88339"
+warning_fg = "#201602"
+critical_bg = "#c35359"
+critical_fg = "#201602"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

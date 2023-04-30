@@ -1,0 +1,9 @@
+# Base16 Windows 10
+# Author: Fergus Collins (https://github.com/C-Fergus)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#b9b9b9"
+info_fg = "#b9b9b9"
+good_fg = "#16c60c"
+warning_fg = "#f9f1a5"
+critical_fg = "#e74856"

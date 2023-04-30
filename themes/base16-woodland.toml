@@ -1,0 +1,9 @@
+# Base16 Woodland
+# Author: Jay Cornwall (https://jcornwall.com)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#b4a490"
+info_fg = "#b4a490"
+good_fg = "#b7ba53"
+warning_fg = "#e0ac16"
+critical_fg = "#d35c5c"

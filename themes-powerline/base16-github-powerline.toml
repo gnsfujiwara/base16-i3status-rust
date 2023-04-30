@@ -1,0 +1,17 @@
+# Base16 Github (powerline)
+# Author: Defman21
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#f5f5f5"
+idle_fg = "#333333"
+info_bg = "#795da3"
+info_fg = "#ffffff"
+good_bg = "#183691"
+good_fg = "#ffffff"
+warning_bg = "#795da3"
+warning_fg = "#ffffff"
+critical_bg = "#ed6a43"
+critical_fg = "#ffffff"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

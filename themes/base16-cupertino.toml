@@ -1,0 +1,9 @@
+# Base16 Cupertino
+# Author: Defman21
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#808080"
+info_fg = "#808080"
+good_fg = "#007400"
+warning_fg = "#826b28"
+critical_fg = "#c41a15"

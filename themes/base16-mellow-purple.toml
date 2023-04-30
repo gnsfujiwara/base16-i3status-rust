@@ -1,0 +1,9 @@
+# Base16 Mellow Purple
+# Author: gidsi
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#873582"
+info_fg = "#873582"
+good_fg = "#05cb0d"
+warning_fg = "#955ae7"
+critical_fg = "#00d9e9"

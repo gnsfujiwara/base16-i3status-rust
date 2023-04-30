@@ -1,0 +1,17 @@
+# Base16 Nova (powerline)
+# Author: George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#556873"
+idle_fg = "#c5d4dd"
+info_bg = "#83afe5"
+info_fg = "#3c4c55"
+good_bg = "#7fc1ca"
+good_fg = "#3c4c55"
+warning_bg = "#a8ce93"
+warning_fg = "#3c4c55"
+critical_bg = "#83afe5"
+critical_fg = "#3c4c55"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

@@ -1,0 +1,9 @@
+# Base16 Green Screen
+# Author: Chris Kempson (http://chriskempson.com)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#009900"
+info_fg = "#009900"
+good_fg = "#00bb00"
+warning_fg = "#007700"
+critical_fg = "#007700"

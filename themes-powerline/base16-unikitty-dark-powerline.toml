@@ -1,0 +1,17 @@
+# Base16 Unikitty Dark (powerline)
+# Author: Josh W Lewis (@joshwlewis)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#4a464d"
+idle_fg = "#bcbabe"
+info_bg = "#796af5"
+info_fg = "#2e2a31"
+good_bg = "#17ad98"
+good_fg = "#2e2a31"
+warning_bg = "#dc8a0e"
+warning_fg = "#2e2a31"
+critical_bg = "#d8137f"
+critical_fg = "#2e2a31"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

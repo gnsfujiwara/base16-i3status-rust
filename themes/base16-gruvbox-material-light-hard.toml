@@ -1,0 +1,9 @@
+# Base16 Gruvbox Material Light, Hard
+# Author: Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#c9b99a"
+info_fg = "#c9b99a"
+good_fg = "#6c782e"
+warning_fg = "#b47109"
+critical_fg = "#c14a4a"

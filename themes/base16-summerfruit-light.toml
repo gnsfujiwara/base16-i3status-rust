@@ -1,0 +1,9 @@
+# Base16 Summerfruit Light
+# Author: Christopher Corley (http://christop.club/)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#000000"
+info_fg = "#000000"
+good_fg = "#00c918"
+warning_fg = "#aba800"
+critical_fg = "#ff0086"

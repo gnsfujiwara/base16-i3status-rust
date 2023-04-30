@@ -1,0 +1,9 @@
+# Base16 Google Light
+# Author: Seth Wright (http://sethawright.com)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#969896"
+info_fg = "#969896"
+good_fg = "#198844"
+warning_fg = "#fba922"
+critical_fg = "#cc342b"

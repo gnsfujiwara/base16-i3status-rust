@@ -1,0 +1,9 @@
+# Base16 lime
+# Author: limelier
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#515155"
+info_fg = "#515155"
+good_fg = "#8cd97c"
+warning_fg = "#ffd15e"
+critical_fg = "#ff662a"

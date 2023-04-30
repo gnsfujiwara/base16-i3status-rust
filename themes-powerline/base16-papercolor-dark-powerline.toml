@@ -1,0 +1,17 @@
+# Base16 PaperColor Dark (powerline)
+# Author: Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#af005f"
+idle_fg = "#808080"
+info_bg = "#ff5faf"
+info_fg = "#1c1c1c"
+good_bg = "#af87d7"
+good_fg = "#1c1c1c"
+warning_bg = "#afd700"
+warning_fg = "#1c1c1c"
+critical_bg = "#585858"
+critical_fg = "#1c1c1c"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

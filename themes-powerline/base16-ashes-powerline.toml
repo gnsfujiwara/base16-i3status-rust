@@ -1,0 +1,17 @@
+# Base16 Ashes (powerline)
+# Author: Jannik Siebert (https://github.com/janniks)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#393f45"
+idle_fg = "#c7ccd1"
+info_bg = "#ae95c7"
+info_fg = "#1c2023"
+good_bg = "#95c7ae"
+good_fg = "#1c2023"
+warning_bg = "#aec795"
+warning_fg = "#1c2023"
+critical_bg = "#c7ae95"
+critical_fg = "#1c2023"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

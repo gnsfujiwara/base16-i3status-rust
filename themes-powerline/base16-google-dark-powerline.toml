@@ -1,0 +1,17 @@
+# Base16 Google Dark (powerline)
+# Author: Seth Wright (http://sethawright.com)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#282a2e"
+idle_fg = "#c5c8c6"
+info_bg = "#3971ed"
+info_fg = "#1d1f21"
+good_bg = "#198844"
+good_fg = "#1d1f21"
+warning_bg = "#fba922"
+warning_fg = "#1d1f21"
+critical_bg = "#cc342b"
+critical_fg = "#1d1f21"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

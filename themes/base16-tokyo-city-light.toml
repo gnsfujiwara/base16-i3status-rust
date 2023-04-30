@@ -1,0 +1,9 @@
+# Base16 Tokyo City Light
+# Author: Michaël Ball
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#4c505e"
+info_fg = "#4c505e"
+good_fg = "#485e30"
+warning_fg = "#4c505e"
+critical_fg = "#8c4351"

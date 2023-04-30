@@ -1,0 +1,9 @@
+# Base16 Equilibrium Gray Light
+# Author: Carlo Abelli
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#5e5e5e"
+info_fg = "#5e5e5e"
+good_fg = "#637200"
+warning_fg = "#9d6f00"
+critical_fg = "#d02023"

@@ -1,0 +1,9 @@
+# Base16 Katy
+# Author: George Essig (https://github.com/gessig)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#8796b0"
+info_fg = "#8796b0"
+good_fg = "#78c06e"
+warning_fg = "#e0a557"
+critical_fg = "#6e98e1"

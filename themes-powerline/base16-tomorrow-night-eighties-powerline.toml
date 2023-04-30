@@ -1,0 +1,17 @@
+# Base16 Tomorrow Night Eighties (powerline)
+# Author: Chris Kempson (http://chriskempson.com)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#393939"
+idle_fg = "#cccccc"
+info_bg = "#6699cc"
+info_fg = "#2d2d2d"
+good_bg = "#99cc99"
+good_fg = "#2d2d2d"
+warning_bg = "#ffcc66"
+warning_fg = "#2d2d2d"
+critical_bg = "#f2777a"
+critical_fg = "#2d2d2d"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

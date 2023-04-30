@@ -1,0 +1,17 @@
+# Base16 Helios (powerline)
+# Author: Alex Meyer (https://github.com/reyemxela)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#383c3e"
+idle_fg = "#d5d5d5"
+info_bg = "#1e8bac"
+info_fg = "#1d2021"
+good_bg = "#88b92d"
+good_fg = "#1d2021"
+warning_bg = "#f19d1a"
+warning_fg = "#1d2021"
+critical_bg = "#d72638"
+critical_fg = "#1d2021"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

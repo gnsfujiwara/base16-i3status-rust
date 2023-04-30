@@ -1,0 +1,17 @@
+# Base16 Ayu Mirage (powerline)
+# Author: Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#1f2430"
+idle_fg = "#cccac2"
+info_bg = "#5ccfe6"
+info_fg = "#171b24"
+good_bg = "#d5ff80"
+good_fg = "#171b24"
+warning_bg = "#ffd173"
+warning_fg = "#171b24"
+critical_bg = "#f28779"
+critical_fg = "#171b24"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

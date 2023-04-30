@@ -1,0 +1,9 @@
+# Base16 vulcan
+# Author: Andrey Varfolomeev
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#6b6977"
+info_fg = "#6b6977"
+good_fg = "#977d7c"
+warning_fg = "#adb4b9"
+critical_fg = "#818591"

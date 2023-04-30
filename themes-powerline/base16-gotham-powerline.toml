@@ -1,0 +1,17 @@
+# Base16 Gotham (powerline)
+# Author: Andrea Leopardi (arranged by Brett Jones)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#11151c"
+idle_fg = "#599cab"
+info_bg = "#195466"
+info_fg = "#0c1014"
+good_bg = "#33859e"
+good_fg = "#0c1014"
+warning_bg = "#edb443"
+warning_fg = "#0c1014"
+critical_bg = "#c23127"
+critical_fg = "#0c1014"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

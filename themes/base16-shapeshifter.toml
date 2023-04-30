@@ -1,0 +1,9 @@
+# Base16 Shapeshifter
+# Author: Tyler Benziger (http://tybenz.com)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#343434"
+info_fg = "#343434"
+good_fg = "#0ed839"
+warning_fg = "#dddd13"
+critical_fg = "#e92f2f"

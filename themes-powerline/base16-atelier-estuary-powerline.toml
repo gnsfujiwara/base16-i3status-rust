@@ -1,0 +1,17 @@
+# Base16 Atelier Estuary (powerline)
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#302f27"
+idle_fg = "#929181"
+info_bg = "#36a166"
+info_fg = "#22221b"
+good_bg = "#7d9726"
+good_fg = "#22221b"
+warning_bg = "#a5980d"
+warning_fg = "#22221b"
+critical_bg = "#ba6236"
+critical_fg = "#22221b"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

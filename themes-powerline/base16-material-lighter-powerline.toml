@@ -1,0 +1,17 @@
+# Base16 Material Lighter (powerline)
+# Author: Nate Peterson
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#e7eaec"
+idle_fg = "#80cbc4"
+info_bg = "#6182b8"
+info_fg = "#fafafa"
+good_bg = "#91b859"
+good_fg = "#fafafa"
+warning_bg = "#ffb62c"
+warning_fg = "#fafafa"
+critical_bg = "#ff5370"
+critical_fg = "#fafafa"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

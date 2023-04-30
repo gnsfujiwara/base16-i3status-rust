@@ -1,0 +1,17 @@
+# Base16 Humanoid light (powerline)
+# Author: Thomas (tasmo) Friese
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#efefe9"
+idle_fg = "#232629"
+info_bg = "#0082c9"
+info_fg = "#f8f8f2"
+good_bg = "#388e3c"
+good_fg = "#f8f8f2"
+warning_bg = "#ffb627"
+warning_fg = "#f8f8f2"
+critical_bg = "#b0151a"
+critical_fg = "#f8f8f2"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

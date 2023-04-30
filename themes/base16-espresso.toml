@@ -1,0 +1,9 @@
+# Base16 Espresso
+# Author: Unknown. Maintained by Alex Mirrington (https://github.com/alexmirrington)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#b4b7b4"
+info_fg = "#b4b7b4"
+good_fg = "#a5c261"
+warning_fg = "#ffc66d"
+critical_fg = "#d25252"

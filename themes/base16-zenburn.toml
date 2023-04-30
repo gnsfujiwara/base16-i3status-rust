@@ -1,0 +1,9 @@
+# Base16 Zenburn
+# Author: elnawe
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#808080"
+info_fg = "#808080"
+good_fg = "#5f7f5f"
+warning_fg = "#e0cf9f"
+critical_fg = "#dca3a3"

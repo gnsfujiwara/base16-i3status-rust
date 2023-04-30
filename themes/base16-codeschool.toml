@@ -1,0 +1,9 @@
+# Base16 Codeschool
+# Author: blockloop
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#84898c"
+info_fg = "#84898c"
+good_fg = "#237986"
+warning_fg = "#a03b1e"
+critical_fg = "#2a5491"

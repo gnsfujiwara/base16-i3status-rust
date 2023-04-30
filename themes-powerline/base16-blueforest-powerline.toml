@@ -1,0 +1,17 @@
+# Base16 Blue Forest (powerline)
+# Author: alonsodomin (https://github.com/alonsodomin)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#1e5c1e"
+idle_fg = "#ffcc33"
+info_bg = "#a2cff5"
+info_fg = "#141f2e"
+good_bg = "#80ff80"
+good_fg = "#141f2e"
+warning_bg = "#91ccff"
+warning_fg = "#141f2e"
+critical_bg = "#fffab1"
+critical_fg = "#141f2e"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

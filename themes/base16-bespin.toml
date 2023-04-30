@@ -1,0 +1,9 @@
+# Base16 Bespin
+# Author: Jan T. Sott
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#797977"
+info_fg = "#797977"
+good_fg = "#54be0d"
+warning_fg = "#f9ee98"
+critical_fg = "#cf6a4c"

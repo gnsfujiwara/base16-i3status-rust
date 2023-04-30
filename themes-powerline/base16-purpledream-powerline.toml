@@ -1,0 +1,17 @@
+# Base16 Purpledream (powerline)
+# Author: malet
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#302030"
+idle_fg = "#ddd0dd"
+info_bg = "#00a0f0"
+info_fg = "#100510"
+good_bg = "#14cc64"
+good_fg = "#100510"
+warning_bg = "#f000a0"
+warning_fg = "#100510"
+critical_bg = "#ff1d0d"
+critical_fg = "#100510"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

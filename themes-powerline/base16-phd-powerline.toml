@@ -1,0 +1,17 @@
+# Base16 PhD (powerline)
+# Author: Hennig Hasemann (http://leetless.de/vim.html)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#2a3448"
+idle_fg = "#b8bbc2"
+info_bg = "#5299bf"
+info_fg = "#061229"
+good_bg = "#99bf52"
+good_fg = "#061229"
+warning_bg = "#fbd461"
+warning_fg = "#061229"
+critical_bg = "#d07346"
+critical_fg = "#061229"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

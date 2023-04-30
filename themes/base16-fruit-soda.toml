@@ -1,0 +1,9 @@
+# Base16 Fruit Soda
+# Author: jozip
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#979598"
+info_fg = "#979598"
+good_fg = "#47f74c"
+warning_fg = "#f7e203"
+critical_fg = "#fe3e31"

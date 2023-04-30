@@ -1,0 +1,17 @@
+# Base16 Atelier Forest Light (powerline)
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#e6e2e0"
+idle_fg = "#68615e"
+info_bg = "#407ee7"
+info_fg = "#f1efee"
+good_bg = "#7b9726"
+good_fg = "#f1efee"
+warning_bg = "#c38418"
+warning_fg = "#f1efee"
+critical_bg = "#f22c40"
+critical_fg = "#f1efee"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

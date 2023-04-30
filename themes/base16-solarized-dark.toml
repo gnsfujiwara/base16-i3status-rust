@@ -1,0 +1,9 @@
+# Base16 Solarized Dark
+# Author: Ethan Schoonover (modified by aramisgithub)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#839496"
+info_fg = "#839496"
+good_fg = "#859900"
+warning_fg = "#b58900"
+critical_fg = "#dc322f"

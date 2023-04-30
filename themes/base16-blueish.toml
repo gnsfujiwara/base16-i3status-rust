@@ -1,0 +1,9 @@
+# Base16 Blueish
+# Author: Ben Mayoras
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#74afe7"
+info_fg = "#74afe7"
+good_fg = "#c3e88d"
+warning_fg = "#82aaff"
+critical_fg = "#4ce587"

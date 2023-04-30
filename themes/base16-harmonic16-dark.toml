@@ -1,0 +1,9 @@
+# Base16 Harmonic16 Dark
+# Author: Jannik Siebert (https://github.com/janniks)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#aabcce"
+info_fg = "#aabcce"
+good_fg = "#56bf8b"
+warning_fg = "#8bbf56"
+critical_fg = "#bf8b56"

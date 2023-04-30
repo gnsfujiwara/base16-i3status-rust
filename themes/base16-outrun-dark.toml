@@ -1,0 +1,9 @@
+# Base16 Outrun Dark
+# Author: Hugo Delahousse (http://github.com/hugodelahousse/)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#b0b0da"
+info_fg = "#b0b0da"
+good_fg = "#59f176"
+warning_fg = "#f3e877"
+critical_fg = "#ff4242"

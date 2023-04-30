@@ -1,0 +1,17 @@
+# Base16 Material Palenight (powerline)
+# Author: Nate Peterson
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#444267"
+idle_fg = "#959dcb"
+info_bg = "#82aaff"
+info_fg = "#292d3e"
+good_bg = "#c3e88d"
+good_fg = "#292d3e"
+warning_bg = "#ffcb6b"
+warning_fg = "#292d3e"
+critical_bg = "#f07178"
+critical_fg = "#292d3e"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

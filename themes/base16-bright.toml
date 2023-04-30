@@ -1,0 +1,9 @@
+# Base16 Bright
+# Author: Chris Kempson (http://chriskempson.com)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#d0d0d0"
+info_fg = "#d0d0d0"
+good_fg = "#a1c659"
+warning_fg = "#fda331"
+critical_fg = "#fb0120"

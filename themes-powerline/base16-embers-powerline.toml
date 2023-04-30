@@ -1,0 +1,17 @@
+# Base16 Embers (powerline)
+# Author: Jannik Siebert (https://github.com/janniks)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#2c2620"
+idle_fg = "#a39a90"
+info_bg = "#6d5782"
+info_fg = "#16130f"
+good_bg = "#57826d"
+good_fg = "#16130f"
+warning_bg = "#6d8257"
+warning_fg = "#16130f"
+critical_bg = "#826d57"
+critical_fg = "#16130f"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

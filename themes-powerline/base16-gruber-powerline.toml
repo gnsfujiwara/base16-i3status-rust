@@ -1,0 +1,17 @@
+# Base16 Gruber (powerline)
+# Author: Patel, Nimai &lt;nimai.m.patel@gmail.com&gt;, colors from www.github.com/rexim/gruber-darker-theme
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#453d41"
+idle_fg = "#f4f4ff"
+info_bg = "#96a6c8"
+info_fg = "#181818"
+good_bg = "#73c936"
+good_fg = "#181818"
+warning_bg = "#ffdd33"
+warning_fg = "#181818"
+critical_bg = "#f43841"
+critical_fg = "#181818"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

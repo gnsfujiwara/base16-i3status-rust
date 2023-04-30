@@ -1,0 +1,9 @@
+# Base16 Kanagawa
+# Author: Tommaso Laurenzi (https://github.com/rebelot)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#727169"
+info_fg = "#727169"
+good_fg = "#76946a"
+warning_fg = "#c0a36e"
+critical_fg = "#c34043"

@@ -1,0 +1,9 @@
+# Base16 Railscasts
+# Author: Ryan Bates (http://railscasts.com)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#d4cfc9"
+info_fg = "#d4cfc9"
+good_fg = "#a5c261"
+warning_fg = "#ffc66d"
+critical_fg = "#da4939"

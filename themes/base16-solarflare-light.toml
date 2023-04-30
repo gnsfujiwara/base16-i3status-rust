@@ -1,0 +1,9 @@
+# Base16 Solar Flare Light
+# Author: Chuck Harmston (https://chuck.harmston.ch)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#667581"
+info_fg = "#667581"
+good_fg = "#7cc844"
+warning_fg = "#e4b51c"
+critical_fg = "#ef5253"

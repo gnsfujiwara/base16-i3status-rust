@@ -1,0 +1,9 @@
+# Base16 Material Darker
+# Author: Nate Peterson
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#b2ccd6"
+info_fg = "#b2ccd6"
+good_fg = "#c3e88d"
+warning_fg = "#ffcb6b"
+critical_fg = "#f07178"

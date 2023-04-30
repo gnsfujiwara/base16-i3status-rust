@@ -1,0 +1,17 @@
+# Base16 Gigavolt (powerline)
+# Author: Aidan Swope (http://github.com/Whillikers)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#2d303d"
+idle_fg = "#e9e7e1"
+info_bg = "#40bfff"
+info_fg = "#202126"
+good_bg = "#f2e6a9"
+good_fg = "#202126"
+warning_bg = "#ffdc2d"
+warning_fg = "#202126"
+critical_bg = "#ff661a"
+critical_fg = "#202126"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

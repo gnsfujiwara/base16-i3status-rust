@@ -1,0 +1,9 @@
+# Base16 Atelier Plateau
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#7e7777"
+info_fg = "#7e7777"
+good_fg = "#4b8b8b"
+warning_fg = "#a06e3b"
+critical_fg = "#ca4949"

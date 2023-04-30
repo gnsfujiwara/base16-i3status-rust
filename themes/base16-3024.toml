@@ -1,0 +1,9 @@
+# Base16 3024
+# Author: Jan T. Sott (http://github.com/idleberg)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#807d7c"
+info_fg = "#807d7c"
+good_fg = "#01a252"
+warning_fg = "#fded02"
+critical_fg = "#db2d20"

@@ -1,0 +1,9 @@
+# Base16 Atelier Sulphurpool Light
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#6b7394"
+info_fg = "#6b7394"
+good_fg = "#ac9739"
+warning_fg = "#c08b30"
+critical_fg = "#c94922"

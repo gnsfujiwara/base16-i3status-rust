@@ -1,0 +1,9 @@
+# Base16 London Tube
+# Author: Jan T. Sott
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#959ca1"
+info_fg = "#959ca1"
+good_fg = "#00853e"
+warning_fg = "#ffd204"
+critical_fg = "#ee2e24"

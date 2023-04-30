@@ -1,0 +1,17 @@
+# Base16 IR Black (powerline)
+# Author: Timothée Poisot (http://timotheepoisot.fr)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#242422"
+idle_fg = "#b5b3aa"
+info_bg = "#96cbfe"
+info_fg = "#000000"
+good_bg = "#a8ff60"
+good_fg = "#000000"
+warning_bg = "#ffffb6"
+warning_fg = "#000000"
+critical_bg = "#ff6c60"
+critical_fg = "#000000"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

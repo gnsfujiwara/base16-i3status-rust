@@ -1,0 +1,17 @@
+# Base16 Windows 95 (powerline)
+# Author: Fergus Collins (https://github.com/C-Fergus)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#1c1c1c"
+idle_fg = "#a8a8a8"
+info_bg = "#5454fc"
+info_fg = "#000000"
+good_bg = "#54fc54"
+good_fg = "#000000"
+warning_bg = "#fcfc54"
+warning_fg = "#000000"
+critical_bg = "#fc5454"
+critical_fg = "#000000"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

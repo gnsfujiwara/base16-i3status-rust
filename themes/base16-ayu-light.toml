@@ -1,0 +1,9 @@
+# Base16 Ayu Light
+# Author: Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#828c99"
+info_fg = "#828c99"
+good_fg = "#86b300"
+warning_fg = "#f2ae49"
+critical_fg = "#f07178"

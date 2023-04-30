@@ -1,0 +1,17 @@
+# Base16 pinky (powerline)
+# Author: Benjamin (https://github.com/b3nj5m1n)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#1b181b"
+idle_fg = "#f5f5f5"
+info_bg = "#00ffff"
+info_fg = "#171517"
+good_bg = "#ff0066"
+good_fg = "#171517"
+warning_bg = "#20df6c"
+warning_fg = "#171517"
+critical_bg = "#ffa600"
+critical_fg = "#171517"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

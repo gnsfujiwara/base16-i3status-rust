@@ -1,0 +1,17 @@
+# Base16 Tokyo Night Terminal Dark (powerline)
+# Author: Michaël Ball
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#1a1b26"
+idle_fg = "#787c99"
+info_bg = "#7aa2f7"
+info_fg = "#16161e"
+good_bg = "#41a6b5"
+good_fg = "#16161e"
+warning_bg = "#e0af68"
+warning_fg = "#16161e"
+critical_bg = "#f7768e"
+critical_fg = "#16161e"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

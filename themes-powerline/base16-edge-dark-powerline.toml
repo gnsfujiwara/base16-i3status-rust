@@ -1,0 +1,17 @@
+# Base16 Edge Dark (powerline)
+# Author: cjayross (https://github.com/cjayross)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#88909f"
+idle_fg = "#b7bec9"
+info_bg = "#73b3e7"
+info_fg = "#262729"
+good_bg = "#a1bf78"
+good_fg = "#262729"
+warning_bg = "#dbb774"
+warning_fg = "#262729"
+critical_bg = "#e77171"
+critical_fg = "#262729"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

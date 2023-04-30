@@ -1,0 +1,9 @@
+# Base16 Still Alive
+# Author: Derrick McKee (derrick.mckee@gmail.com)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#f00000"
+info_fg = "#f00000"
+good_fg = "#5c5c6a"
+warning_fg = "#426395"
+critical_fg = "#487830"

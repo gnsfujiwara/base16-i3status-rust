@@ -1,0 +1,17 @@
+# Base16 Ayu Dark (powerline)
+# Author: Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#131721"
+idle_fg = "#e6e1cf"
+info_bg = "#59c2ff"
+info_fg = "#0f1419"
+good_bg = "#b8cc52"
+good_fg = "#0f1419"
+warning_bg = "#ffb454"
+warning_fg = "#0f1419"
+critical_bg = "#f07178"
+critical_fg = "#0f1419"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

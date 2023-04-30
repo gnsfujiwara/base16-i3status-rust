@@ -1,0 +1,9 @@
+# Base16 Windows NT
+# Author: Fergus Collins (https://github.com/C-Fergus)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#a1a1a1"
+info_fg = "#a1a1a1"
+good_fg = "#00ff00"
+warning_fg = "#ffff00"
+critical_fg = "#ff0000"

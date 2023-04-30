@@ -1,0 +1,9 @@
+# Base16 Brush Trees Dark
+# Author: Abraham White &lt;abelincoln.white@gmail.com&gt;
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#98afb5"
+info_fg = "#98afb5"
+good_fg = "#87b386"
+warning_fg = "#aab386"
+critical_fg = "#b38686"

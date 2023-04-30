@@ -1,0 +1,9 @@
+# Base16 Helios
+# Author: Alex Meyer (https://github.com/reyemxela)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#cdcdcd"
+info_fg = "#cdcdcd"
+good_fg = "#88b92d"
+warning_fg = "#f19d1a"
+critical_fg = "#d72638"

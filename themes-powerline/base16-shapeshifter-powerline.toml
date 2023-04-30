@@ -1,0 +1,17 @@
+# Base16 Shapeshifter (powerline)
+# Author: Tyler Benziger (http://tybenz.com)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#e0e0e0"
+idle_fg = "#102015"
+info_bg = "#3b48e3"
+info_fg = "#f9f9f9"
+good_bg = "#0ed839"
+good_fg = "#f9f9f9"
+warning_bg = "#dddd13"
+warning_fg = "#f9f9f9"
+critical_bg = "#e92f2f"
+critical_fg = "#f9f9f9"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

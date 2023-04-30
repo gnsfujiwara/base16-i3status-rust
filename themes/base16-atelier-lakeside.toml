@@ -1,0 +1,9 @@
+# Base16 Atelier Lakeside
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#7195a8"
+info_fg = "#7195a8"
+good_fg = "#568c3b"
+warning_fg = "#8a8a0f"
+critical_fg = "#d22d72"

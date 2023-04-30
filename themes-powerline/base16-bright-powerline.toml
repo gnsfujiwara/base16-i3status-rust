@@ -1,0 +1,17 @@
+# Base16 Bright (powerline)
+# Author: Chris Kempson (http://chriskempson.com)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#303030"
+idle_fg = "#e0e0e0"
+info_bg = "#6fb3d2"
+info_fg = "#000000"
+good_bg = "#a1c659"
+good_fg = "#000000"
+warning_bg = "#fda331"
+warning_fg = "#000000"
+critical_bg = "#fb0120"
+critical_fg = "#000000"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

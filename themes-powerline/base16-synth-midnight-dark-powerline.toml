@@ -1,0 +1,17 @@
+# Base16 Synth Midnight Terminal Dark (powerline)
+# Author: Michaël Ball (http://github.com/michael-ball/)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#1a1b1c"
+idle_fg = "#c1c3c4"
+info_bg = "#03aeff"
+info_fg = "#050608"
+good_bg = "#06ea61"
+good_fg = "#050608"
+warning_bg = "#c9d364"
+warning_fg = "#050608"
+critical_bg = "#b53b50"
+critical_fg = "#050608"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

@@ -1,0 +1,17 @@
+# Base16 Green Screen (powerline)
+# Author: Chris Kempson (http://chriskempson.com)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#003300"
+idle_fg = "#00bb00"
+info_bg = "#009900"
+info_fg = "#001100"
+good_bg = "#00bb00"
+good_fg = "#001100"
+warning_bg = "#007700"
+warning_fg = "#001100"
+critical_bg = "#007700"
+critical_fg = "#001100"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

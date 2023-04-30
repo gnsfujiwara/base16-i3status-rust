@@ -1,0 +1,9 @@
+# Base16 tender
+# Author: Jacobo Tabernero (https://github/com/jacoborus/tender.vim)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#b8b8b8"
+info_fg = "#b8b8b8"
+good_fg = "#c9d05c"
+warning_fg = "#ffc24b"
+critical_fg = "#f43753"

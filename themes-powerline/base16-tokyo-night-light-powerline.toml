@@ -1,0 +1,17 @@
+# Base16 Tokyo Night Light (powerline)
+# Author: Michaël Ball
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#cbccd1"
+idle_fg = "#343b59"
+info_bg = "#34548a"
+info_fg = "#d5d6db"
+good_bg = "#485e30"
+good_fg = "#d5d6db"
+warning_bg = "#166775"
+warning_fg = "#d5d6db"
+critical_bg = "#343b58"
+critical_fg = "#d5d6db"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

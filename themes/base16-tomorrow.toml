@@ -1,0 +1,9 @@
+# Base16 Tomorrow
+# Author: Chris Kempson (http://chriskempson.com)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#969896"
+info_fg = "#969896"
+good_fg = "#718c00"
+warning_fg = "#eab700"
+critical_fg = "#c82829"

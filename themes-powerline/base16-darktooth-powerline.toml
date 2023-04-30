@@ -1,0 +1,17 @@
+# Base16 Darktooth (powerline)
+# Author: Jason Milkins (https://github.com/jasonm23)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#32302f"
+idle_fg = "#a89984"
+info_bg = "#0d6678"
+info_fg = "#1d2021"
+good_bg = "#95c085"
+good_fg = "#1d2021"
+warning_bg = "#fac03b"
+warning_fg = "#1d2021"
+critical_bg = "#fb543f"
+critical_fg = "#1d2021"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

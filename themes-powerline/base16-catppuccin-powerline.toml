@@ -1,0 +1,17 @@
+# Base16 Catppuccin (powerline)
+# Author: Pocco81 (https://github.com/pocco81)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#1a1826"
+idle_fg = "#d7dae0"
+info_bg = "#96cdfb"
+info_fg = "#1e1e28"
+good_bg = "#abe9b3"
+good_fg = "#1e1e28"
+warning_bg = "#fae3b0"
+warning_fg = "#1e1e28"
+critical_bg = "#f28fad"
+critical_fg = "#1e1e28"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

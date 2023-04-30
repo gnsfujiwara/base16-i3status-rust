@@ -1,0 +1,9 @@
+# Base16 Rosé Pine Moon
+# Author: Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#817c9c"
+info_fg = "#817c9c"
+good_fg = "#ea9a97"
+warning_fg = "#f6c177"
+critical_fg = "#ecebf0"

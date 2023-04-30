@@ -1,0 +1,17 @@
+# Base16 Nord (powerline)
+# Author: arcticicestudio
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#3b4252"
+idle_fg = "#e5e9f0"
+info_bg = "#81a1c1"
+info_fg = "#2e3440"
+good_bg = "#a3be8c"
+good_fg = "#2e3440"
+warning_bg = "#ebcb8b"
+warning_fg = "#2e3440"
+critical_bg = "#bf616a"
+critical_fg = "#2e3440"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

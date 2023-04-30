@@ -1,0 +1,17 @@
+# Base16 Atelier Plateau (powerline)
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#292424"
+idle_fg = "#8a8585"
+info_bg = "#7272ca"
+info_fg = "#1b1818"
+good_bg = "#4b8b8b"
+good_fg = "#1b1818"
+warning_bg = "#a06e3b"
+warning_fg = "#1b1818"
+critical_bg = "#ca4949"
+critical_fg = "#1b1818"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

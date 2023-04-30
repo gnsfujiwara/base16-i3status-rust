@@ -1,0 +1,17 @@
+# Base16 Kimber (powerline)
+# Author: Mishka Nguyen (https://github.com/akhsiM)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#313131"
+idle_fg = "#dedee7"
+info_bg = "#537c9c"
+info_fg = "#222222"
+good_bg = "#99c899"
+good_fg = "#222222"
+warning_bg = "#d8b56d"
+warning_fg = "#222222"
+critical_bg = "#c88c8c"
+critical_fg = "#222222"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

@@ -1,0 +1,9 @@
+# Base16 summercamp
+# Author: zoe firi (zoefiri.github.io)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#5f5b45"
+info_fg = "#5f5b45"
+good_fg = "#5ceb5a"
+warning_fg = "#f2ff27"
+critical_fg = "#e35142"

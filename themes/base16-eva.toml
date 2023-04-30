@@ -1,0 +1,9 @@
+# Base16 Eva
+# Author: kjakapat (https://github.com/kjakapat)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#7e90a3"
+info_fg = "#7e90a3"
+good_fg = "#66ff66"
+warning_fg = "#ffff66"
+critical_fg = "#c4676c"

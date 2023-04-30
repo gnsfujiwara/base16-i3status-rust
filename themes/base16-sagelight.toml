@@ -1,0 +1,9 @@
+# Base16 Sagelight
+# Author: Carter Veldhuizen
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#585858"
+info_fg = "#585858"
+good_fg = "#a0d2c8"
+warning_fg = "#ffdc61"
+critical_fg = "#fa8480"

@@ -1,0 +1,9 @@
+# Base16 Humanoid light
+# Author: Thomas (tasmo) Friese
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#60615d"
+info_fg = "#60615d"
+good_fg = "#388e3c"
+warning_fg = "#ffb627"
+critical_fg = "#b0151a"

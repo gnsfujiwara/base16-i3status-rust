@@ -1,0 +1,9 @@
+# Base16 Hopscotch
+# Author: Jan T. Sott
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#989498"
+info_fg = "#989498"
+good_fg = "#8fc13e"
+warning_fg = "#fdcc59"
+critical_fg = "#dd464c"

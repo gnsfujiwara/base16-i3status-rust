@@ -1,0 +1,9 @@
+# Base16 Classic Dark
+# Author: Jason Heeris (http://heeris.id.au)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#b0b0b0"
+info_fg = "#b0b0b0"
+good_fg = "#90a959"
+warning_fg = "#f4bf75"
+critical_fg = "#ac4142"

@@ -1,0 +1,9 @@
+# Base16 Pico
+# Author: PICO-8 (http://www.lexaloffle.com/pico-8.php)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#ab5236"
+info_fg = "#ab5236"
+good_fg = "#00e756"
+warning_fg = "#fff024"
+critical_fg = "#ff004d"

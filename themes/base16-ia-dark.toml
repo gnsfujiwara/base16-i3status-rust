@@ -1,0 +1,9 @@
+# Base16 iA Dark
+# Author: iA Inc. (modified by aramisgithub)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#b8b8b8"
+info_fg = "#b8b8b8"
+good_fg = "#83a471"
+warning_fg = "#b99353"
+critical_fg = "#d88568"

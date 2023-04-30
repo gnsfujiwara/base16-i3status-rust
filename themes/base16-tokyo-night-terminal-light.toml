@@ -1,0 +1,9 @@
+# Base16 Tokyo Night Terminal Light
+# Author: Michaël Ball
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#4c505e"
+info_fg = "#4c505e"
+good_fg = "#33635c"
+warning_fg = "#8f5e15"
+critical_fg = "#8c4351"

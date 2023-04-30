@@ -1,0 +1,17 @@
+# Base16 Windows NT Light (powerline)
+# Author: Fergus Collins (https://github.com/C-Fergus)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#eaeaea"
+idle_fg = "#808080"
+info_bg = "#000080"
+info_fg = "#ffffff"
+good_bg = "#008000"
+good_fg = "#ffffff"
+warning_bg = "#808000"
+warning_fg = "#ffffff"
+critical_bg = "#800000"
+critical_fg = "#ffffff"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

@@ -1,0 +1,9 @@
+# Base16 Google Dark
+# Author: Seth Wright (http://sethawright.com)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#b4b7b4"
+info_fg = "#b4b7b4"
+good_fg = "#198844"
+warning_fg = "#fba922"
+critical_fg = "#cc342b"

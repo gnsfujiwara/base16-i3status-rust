@@ -1,0 +1,9 @@
+# Base16 Spaceduck
+# Author: Guillermo Rodriguez (https://github.com/pineapplegiant), packaged by Gabriel Fontes (https://github.com/Misterio77)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#818596"
+info_fg = "#818596"
+good_fg = "#5ccc96"
+warning_fg = "#f2ce00"
+critical_fg = "#e33400"

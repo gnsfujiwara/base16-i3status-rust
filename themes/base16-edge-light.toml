@@ -1,0 +1,9 @@
+# Base16 Edge Light
+# Author: cjayross (https://github.com/cjayross)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#6587bf"
+info_fg = "#6587bf"
+good_fg = "#7c9f4b"
+warning_fg = "#d69822"
+critical_fg = "#db7070"

@@ -1,0 +1,17 @@
+# Base16 XCode Dusk (powerline)
+# Author: Elsa Gonsiorowski (https://github.com/gonsie)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#3d4048"
+idle_fg = "#939599"
+info_bg = "#790ead"
+info_fg = "#282b35"
+good_bg = "#df0002"
+good_fg = "#282b35"
+warning_bg = "#438288"
+warning_fg = "#282b35"
+critical_bg = "#b21889"
+critical_fg = "#282b35"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

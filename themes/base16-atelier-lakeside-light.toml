@@ -1,0 +1,9 @@
+# Base16 Atelier Lakeside Light
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#5a7b8c"
+info_fg = "#5a7b8c"
+good_fg = "#568c3b"
+warning_fg = "#8a8a0f"
+critical_fg = "#d22d72"

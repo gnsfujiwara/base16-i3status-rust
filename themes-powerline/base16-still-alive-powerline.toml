@@ -1,0 +1,17 @@
+# Base16 Still Alive (powerline)
+# Author: Derrick McKee (derrick.mckee@gmail.com)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#f0d848"
+idle_fg = "#d80000"
+info_bg = "#001878"
+info_fg = "#f0f0f0"
+good_bg = "#5c5c6a"
+good_fg = "#f0f0f0"
+warning_bg = "#426395"
+warning_fg = "#f0f0f0"
+critical_bg = "#487830"
+critical_fg = "#f0f0f0"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

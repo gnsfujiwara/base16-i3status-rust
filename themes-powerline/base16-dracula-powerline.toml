@@ -1,0 +1,17 @@
+# Base16 Dracula (powerline)
+# Author: Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#3a3c4e"
+idle_fg = "#e9e9f4"
+info_bg = "#62d6e8"
+info_fg = "#282936"
+good_bg = "#ebff87"
+good_fg = "#282936"
+warning_bg = "#00f769"
+warning_fg = "#282936"
+critical_bg = "#ea51b2"
+critical_fg = "#282936"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

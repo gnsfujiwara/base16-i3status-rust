@@ -1,0 +1,9 @@
+# Base16 Silk Dark
+# Author: Gabriel Fontes (https://github.com/Misterio77)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#9dc8cd"
+info_fg = "#9dc8cd"
+good_fg = "#73d8ad"
+warning_fg = "#fce380"
+critical_fg = "#fb6953"

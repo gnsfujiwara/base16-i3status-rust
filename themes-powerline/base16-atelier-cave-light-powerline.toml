@@ -1,0 +1,17 @@
+# Base16 Atelier Cave Light (powerline)
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#e2dfe7"
+idle_fg = "#585260"
+info_bg = "#576ddb"
+info_fg = "#efecf4"
+good_bg = "#2a9292"
+good_fg = "#efecf4"
+warning_bg = "#a06e3b"
+warning_fg = "#efecf4"
+critical_bg = "#be4678"
+critical_fg = "#efecf4"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

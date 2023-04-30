@@ -1,0 +1,17 @@
+# Base16 PaperColor Light (powerline)
+# Author: Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#af0000"
+idle_fg = "#444444"
+info_bg = "#d75f00"
+info_fg = "#eeeeee"
+good_bg = "#8700af"
+good_fg = "#eeeeee"
+warning_bg = "#d70087"
+warning_fg = "#eeeeee"
+critical_bg = "#bcbcbc"
+critical_fg = "#eeeeee"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

@@ -1,0 +1,9 @@
+# Base16 Windows High Contrast Light
+# Author: Fergus Collins (https://github.com/C-Fergus)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#7e7e7e"
+info_fg = "#7e7e7e"
+good_fg = "#008000"
+warning_fg = "#808000"
+critical_fg = "#800000"

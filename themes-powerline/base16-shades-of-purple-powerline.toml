@@ -1,0 +1,17 @@
+# Base16 Shades of Purple (powerline)
+# Author: Iolar Demartini Junior (http://github.com/demartini) based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode).
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#43d426"
+idle_fg = "#c7c7c7"
+info_bg = "#6943ff"
+info_fg = "#1e1e3f"
+good_bg = "#3ad900"
+good_fg = "#1e1e3f"
+warning_bg = "#ffe700"
+warning_fg = "#1e1e3f"
+critical_bg = "#d90429"
+critical_fg = "#1e1e3f"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

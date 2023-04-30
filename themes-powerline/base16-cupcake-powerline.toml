@@ -1,0 +1,17 @@
+# Base16 Cupcake (powerline)
+# Author: Chris Kempson (http://chriskempson.com)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#f2f1f4"
+idle_fg = "#8b8198"
+info_bg = "#7297b9"
+info_fg = "#fbf1f2"
+good_bg = "#a3b367"
+good_fg = "#fbf1f2"
+warning_bg = "#dcb16c"
+warning_fg = "#fbf1f2"
+critical_bg = "#d57e85"
+critical_fg = "#fbf1f2"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

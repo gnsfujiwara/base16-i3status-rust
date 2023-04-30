@@ -1,0 +1,17 @@
+# Base16 Eva (powerline)
+# Author: kjakapat (https://github.com/kjakapat)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#3d566f"
+idle_fg = "#9fa2a6"
+info_bg = "#15f4ee"
+info_fg = "#2a3b4d"
+good_bg = "#66ff66"
+good_fg = "#2a3b4d"
+warning_bg = "#ffff66"
+warning_fg = "#2a3b4d"
+critical_bg = "#c4676c"
+critical_fg = "#2a3b4d"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

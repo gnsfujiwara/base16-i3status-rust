@@ -1,0 +1,17 @@
+# Base16 Rosé Pine (powerline)
+# Author: Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#1f1d2e"
+idle_fg = "#e0def4"
+info_bg = "#9ccfd8"
+info_fg = "#191724"
+good_bg = "#ebbcba"
+good_fg = "#191724"
+warning_bg = "#f6c177"
+warning_fg = "#191724"
+critical_bg = "#e2e1e7"
+critical_fg = "#191724"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

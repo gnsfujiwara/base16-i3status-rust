@@ -1,0 +1,9 @@
+# Base16 Atelier Forest Light
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#766e6b"
+info_fg = "#766e6b"
+good_fg = "#7b9726"
+warning_fg = "#c38418"
+critical_fg = "#f22c40"

@@ -1,0 +1,17 @@
+# Base16 Espresso (powerline)
+# Author: Unknown. Maintained by Alex Mirrington (https://github.com/alexmirrington)
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#393939"
+idle_fg = "#cccccc"
+info_bg = "#6c99bb"
+info_fg = "#2d2d2d"
+good_bg = "#a5c261"
+good_fg = "#2d2d2d"
+warning_bg = "#ffc66d"
+warning_fg = "#2d2d2d"
+critical_bg = "#d25252"
+critical_fg = "#2d2d2d"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

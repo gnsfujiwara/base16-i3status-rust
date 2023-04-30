@@ -1,0 +1,17 @@
+# Base16 Equilibrium Dark (powerline)
+# Author: Carlo Abelli
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_bg = "#181c22"
+idle_fg = "#afaba2"
+info_bg = "#008dd1"
+info_fg = "#0c1118"
+good_bg = "#7f8b00"
+good_fg = "#0c1118"
+warning_bg = "#bb8801"
+warning_fg = "#0c1118"
+critical_bg = "#f04339"
+critical_fg = "#0c1118"
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"

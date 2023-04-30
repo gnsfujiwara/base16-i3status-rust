@@ -1,0 +1,9 @@
+# Base16 Paraiso
+# Author: Jan T. Sott
+# Template Author: gnsfujiwara (https://github.com/gnsfujiwara)
+
+idle_fg = "#8d8687"
+info_fg = "#8d8687"
+good_fg = "#48b685"
+warning_fg = "#fec418"
+critical_fg = "#ef6155"
